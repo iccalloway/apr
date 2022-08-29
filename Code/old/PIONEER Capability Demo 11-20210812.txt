@@ -1,0 +1,1012 @@
+00:00:03 00:00:05  thank you san good
+00:00:08 00:00:17  thanks richard got your chat there all right so i'm going to scare stand and go off script here for two seconds and i want to show the
+00:00:17 00:00:19  a milestone report
+00:00:20 00:00:24  in addition to the power point that you guys we've already provided
+00:00:31 00:00:34  this is part of my stall while you come on line
+00:00:34 00:01:09  so this is the monthly milestone report that a w b a e provides to the government every month and it basely goes from the last or the day after the last a monthly deliver a to per here it was for ten august we are here on the twelfth as we to move th them back a couple of days but i just want you all to be aware there's a lot of stuff that the team is doing t pioneer team is doing each week with the various meetings that they go through a lot of them repetitive but am
+00:01:10 00:01:21  between the nick meetings a g c m l s meetings what else we got the architecture working group the scenario working group the v v and a working group that you see going on each
+00:01:22 00:01:24  each week and
+00:01:25 00:01:37  then we go out to the team and we consolidate our shands and we consolidate everybody's period accomplishments but we go out for example to alex and ask them for the period accomplishments and c a you see here
+00:01:37 00:01:41  norse i see jumping out here and got stillman and
+00:01:41 00:01:48  and everybody then delivers that we have to deliver during this period
+00:01:48 00:01:52  and we just delivered for example the s c t m and the s s p
+00:01:53 00:02:01  as part of this deliver be and now as we are talking throughout this meeting we will be up dating the meeting notes
+00:02:02 00:02:13  in to thing down the range to oby and sam and tyson and chuck and the government and they all get to take a look at it and they're good with it a to get the smith t invoice the how the smith they're invoices
+00:02:14 00:02:20  oh that i just wanted to show you so people have a situation awareness that that is going on
+00:02:20 00:02:35  not so o k i was going to say in the waiting room i but i think we just got him so i'm good forget good i'm now im going to pull up and start the
+00:02:53 00:02:54  m
+00:02:55 00:03:21  i do want some feed back bring you talking about feed back yesterday or from anybody we're working on this a logo am and i see it we all haven't a boat at this one too or headed down the right path or not lots of people put an input on this and where it's gotten to day it's still in draught if anybody has the do be happy to hear em for a here
+00:03:21 00:03:43  what we're going to talk about to day the agenda e to listen to me for a couple of minutes and then we're going to drop it over to marcus and talk about some f t c and p specks am ethan's going to hit vinet one and marcus vinet two and three as going to give us the up on massive of what's going on there im jove from four seas going to hit up the use in face for ex
+00:03:45 00:03:48  cut from c is going to help us with the train demo
+00:03:49 00:04:10  a richard brake brake his gon do train up date for a b b s fort and bohemia and richard your brake you can tell us when you get there i know you sent an mal right before this m with murphy's law out there he ran into a lich but you you look like you were adapting adjusting a figurin out something
+00:04:10 00:04:16  a speech to text is really coarse but from a alex is going to show us what they've done with speech
+00:04:17 00:04:29  i'm analytic taylor actually chris role filling i think for stu chris said give us an up date there and then back to marcus for m and s demo and then you'll have to listen to me rap things
+00:04:30 00:04:33  any questions on what were going to be doing to day here
+00:04:36 00:04:43  i'm moving on and and o marcus if you want to take over the screen you obviously can do you want me to stop sharing
+00:04:45 00:05:12  ah jean i think i can override you give me a second as ole as ole says this is my eh this is what i'm good at is just bullying my way into things ah ok please let me know if you can see a very unreadable exhale spread sheet we can o k going to leave it unreadable for a second because i'm a talk about the potential meta strategy and i say you know potential because this is a dialogue between us
+00:05:13 00:05:17  and this is a tool to be able to have that dialogue
+00:05:17 00:06:18  and so what we've done is we've taken what you gave us cause we know to be honest with you chuck you and your team have done exactly you know what we ask okay provide us some more detail get it to us early even if it's not perfect we know you guys are still working on this but it did allow us to to get a deep dive and get an understanding of where you're going and the way we propose that we give you feed back on that is that we look at your p specks and your f t c and we come in and say o k we'll try to color them to say look green means that we're going to do it in september right we think we're on path to be able to make that happen now these will change as things may develop but this is our plan blue means yes we think we'll do that p speck but we're not going to do it until the actual d t event is when we think we'll get there now you know obviously the goal is to achieve as many f t c as we can for each
+00:06:18 00:07:18  speck we're not trying to lob all the thing what we balance of course is you know as i say hey this isn't a deep enough dive on something like logistics and i'll scroll down there as i get there cause it has a little bit of both and it's what i it's what ole's going to cover here quickly in the demo so it's actually really really relevant as i scroll down some of you will see orange and what orange means to us as right now inside of our cycle is we're not going to be able to achieve that f t c h until after a you know probably inside of phase three so what we believe is for the prototype you know we are going to show you that we can do each one of your p specks via the prototype we're not going to be able to do all of them via the prototype because if we don't move out on if we get too deep in any one p speck we start to lose other p speck capabilities to get there because as you gave us more data what it does is we can deep dive and you can go into a rabbit hole on those
+00:07:18 00:08:18  all day long and the prototype loses some functional ity on the back end and so that's what we're worried about it striking a balance with the government to say hey for the prototype can we just get deep enough in each one of these p specks and or ou o k with that and in having that dialogue so what i'm zoomed in on now and jean i don't know if you can see it well if you want to give me any feed back a trying to say hey you know that the the p speck here is you know seven forty eight and what er going to try to do is we're going to model consumption at the platform level and so what you're going to see you know oleg will show you later on to day e we can show you know people doing this portion of it they'll consume but it's food and water as per publication we think we can do that but rations have calories to simulate fatigue o k let's talk about that like what do you mean by that like do i have to have actual calories inside of there can i tie that to the publication which only uses pounds per soldier or per marine per day can we use that and somebody say
+00:08:18 00:08:22  yeah we think that's good enough to achieve that f t c so there's a back and forth dialogue on
+00:08:22 00:08:25  and will mark those appropriately
+00:08:25 00:08:49  and then there's one you know we're goin to do in an austere environment right ole's going to show you that right now we can do it in a standard environment we're going t have a setting that says hey i'm in tropical i'm in arid i'm in this and it can increase the supply consumption i'm from there oleg will show you the first part of it to day and then we'll move on and then there are ones we're saying hey we're not really going to do that until a later date
+00:08:49 00:08:56  but then as you get down there are ones that were like hay we don't think we're to be able to get to these until you know phase three
+00:08:57 00:09:40  and you know the reason some of those are some of em require some experts some of em require inability to to deep dive and have me sitting with you next to you like i need a medical guy sitting with me to get this thing right and so that's what we're trying to say is that those are the ones that we are not going to deep dive into of those f t c deering phase too just to build the prototype cause we think we can get enough of it by execute here now of course that should lead to a back and forth the government should come back to us and say hey i'm unhappy that you're not modelling no space platforms i want to see you know a satellite with a lazar on it or i want to see a space shuttle with a lazar on it
+00:09:40 00:10:14  and i think you know i want you to be able to do that or i've got these lighter than air platforms that i need to model i need par foils and rivals in the prototype and here's our reason for that and we're willing to trade you you know x y z don't do any more with logistics you've gone deep enough we need to see this thing and those are the types of we think back and forth dialogues and inside of here you know what we're trying to do is tell you who's going to do that thing like who's who's making that thing happen and where would you expect to see the primacy and what level we think we're modelling it
+00:10:15 00:10:50  and so this is going to i'm sorry sir glad and i'm i'm tracking completely on what you're you're defining here and absolutely on board this is exactly what i i was looking for a the color coating is as fine in my mind that's one approach but it is the one thing that is missing a is you know so i'm good with the the green and the blue i think you said the green is going to be for face two the blue would be a
+00:10:52 00:10:55  i think the bolus was to be at the d t event and so another
+00:10:56 00:11:12  oh at the d t event so that still says to right what we were saying is we're going to try to show you what we can ah so this this is or this upcoming september demo and then we're going to say hey some of these were just going to push to the d t we still expect to show you that thing
+00:11:12 00:11:28  the oranges is a phase three like we just don't think we ging to get there until we pass the prototype phase and then that's fine so what i would offer and as you can just tell i got confused on o blue means d t an green means we're going to do it during ah the actual
+00:11:28 00:11:45  what i offer is and you started doing it in column oh it is right till you have face three a potential used a column that says a no instead of a color coat in use
+00:11:45 00:12:00  demonstration of one options demonstration one is d t event one is o o demo od event that tells us that you potential have that available at the ops demonstration period
+00:12:00 00:12:23  but then cadet get into face three right but then you had an i o c f o c or post f o c a piece tri idea to judge it no if you just say it's face three it could be an i o c face three or it could be a post f o c face three and that's where some of that negotiation may need to come in also
+00:12:24 00:12:46  o k no sir that makes total sense and and what you have is you have a knuckle dagger you know probably the guy with the lowest ice in the room creating the spread sheet a and i see jean shaking his head we'll wrestle about that one later jean a the and so i believe i believe like this is going to be put in in a better tracking system something like
+00:12:47 00:13:41  something to where we can communicate to the government kind of openly as we move through these things this was just marcus first initial attempt to have the dialogue with you but now those are easy fixes and will make it a more sort able type menu so i think we will make that happen at least in the poor man's column but you know i expect that somebody's going to start taking lips on all these other tabs we may wait to get your actual f t c numbers and that's probably a discussion for us to have at some point because i know bob does a lot of work on making numbers and getting things together and then we saw your guises spread sheet which had some some different f t con we had so we may just want to set a date for us to move out and continue on this us and the mods and sims since i helped with the snare working group this was a way for me to start telling the story and start telling people what i needed them to focus and
+00:13:41 00:13:59  sure so ah i'm good with waiting until you get the dated a f t c id and ken you're on the call so i men i put you on the spot i apologize but how long is it going to take you to get that import done and get the f t c id
+00:14:08 00:14:12  an peters an he be thee
+00:14:13 00:14:36  i heard sore sorry lows i said peter out peter i was in to speak for you i heard by the end of the day i heard i don't know h to tot that once the eternal review is completed it should be up loaded and ready for in a day or two o k so what i heard you say once the internal review is completed up load a day or two how long is the internal review going to
+00:14:40 00:14:44  i'll bring it maybe you can answer that
+00:14:47 00:14:52  was it what's the final thing that we're trying to adjudicate is it those comments that you provided back to em
+00:14:52 00:15:07  yes o k so since that's an eternal thing a bryan o i'm going to set a objective of c o be monday to have the comets judicature list
+00:15:08 00:15:26  yes to this point i have a few comments and i've planning to send to morrow morning cannon that'll be it so we'll consider it wrapped up ok so that if the comments are judicatory s monday you said a day or two so s ll be wednesday we should have
+00:15:27 00:15:34  it imported and pulled the a t c id by c wensday
+00:15:34 00:15:36  that realistic ken
+00:15:36 00:15:45  yes o k so that being said i quick review thursday morning and it'll be in your hands marcus a midday thursday
+00:15:46 00:15:47  thank you very much sir
+00:15:49 00:16:21  o see marcus as titan this does follow upon that i'm just kind of falling upon our conversation from yesterday so i'm two questions one s you got green means september i p r right and i guess i'm wondering are you going to indicate no by i p r so september is one i p r right but so is it is it all either september versus ten or are you going to be showing you know intermediate it is on in september these ones are december whatever
+00:16:22 00:16:50  o you great question tyson and shows you that i had an assumption what we're going to try to follow there is a in our i p r schedule that we submitted what we're going to do is you know it will be at the demo as following that i p r let me let me try to pull that up for you just kind of to relay what i'm saying in the way that we think about it causes cause because you know you know how it is tyson you have so many internal dialogues you think everybody knows exactly what you know
+00:16:58 00:17:04  the line just want silent maybe sir he were here jack thee just mark
+00:17:14 00:17:27  in ready like let's get the final soft wares let's get the fine old things together we lost you martin you that track we lost about thirty seconds marcus o k i'm sorry e so ominous
+00:17:31 00:17:32  we lost it again
+00:17:36 00:17:50  this may be a very quick discussion a try to trick an i brief right you guess do you guess come right now yes we do all right if i got a switch head sets midway through i will so maybe i'm talking too fast
+00:17:51 00:17:56  the tyson what we are trying to say is that what's in green means it's tied to the i p r
+00:17:56 00:18:11  this i p r this one coming up in this cycle is the southwest pack i p r this i p r coming up in december is going to be the o i f and this one is tied to the strategic sonar
+00:18:11 00:18:23  and that gave us this whole last cycle to clean up for the d t event so when we show it here we're tying it to where you wanted it at so o i f operational level that means it's on track for
+00:18:24 00:18:30  september for december i p r if it says southwest pack then it's on track for the i p r
+00:18:32 00:18:35  sen got yo and then the second question is
+00:18:36 00:18:38  so indeed
+00:18:38 00:19:00  given your getting these f t c on the order so do you still anticipate the two weeks prior to the september i p r being able to go through this have a discussion with us you now give it to us and then at least the parts that are for september write and then have that a dialogue on them in advance like the two weeks in advance of the tr
+00:19:00 00:19:26  i do i do anticipate that that's possible and and with the the caveat that i get to use my wife's favorite line as i reserve the right to change my mind at any time with no given notice and what i mean by that tyson is we'll give you what's hopeful you know just be forgiving of us when we say hey i was going to model this this primary wheeled vehicle mover but this fell out of the demo due to you know the widgett maker and the spencer valve going down at the same
+00:19:28 00:19:34  but we'll try to get you this i mean i really do think we'll get this to you two weeks ahead of time cause we should know dam sure by then
+00:19:35 00:19:40  didn't i and jean i just i just surpassed my pay grade in trying to answer that
+00:19:41 00:19:49  any any top cover or slappings you want to do in public no i'm not going to slap you marcus
+00:19:50 00:20:23  i would just say that i more i get what you mean about things or things can change but it is important that we have that that dialogue even if things do change right so that it's more important to me that we've had the the talk through it with the sneeze on the phone and all and go through and get the questions answered and the discussion points out and all that even if it's not a hundred per cent accurate as to what actually is being done in september that's sort of the priority order to me is that we have the discussion as well as we can
+00:20:24 00:20:35  i i think everybody's thought or bad news doesn't get better with time and we don't want to spring something on you short you know rightly before right before the i p r so yes tyson agreed
+00:20:35 00:20:37  thing sens will let you know
+00:20:38 00:20:46  and and what i will say tyson as i do want to er i guess i can't i can speak to it for the maud and sims tab
+00:20:47 00:21:02  i don't know if we're ready to show you on some of these other ones i know that others may be able to speak to that but i think on the modelling and simulation tab that is totally diable because what we did is we deep dove it with the whole team to understand the problem
+00:21:03 00:21:47  you know when you get into some of these other ones you know there's there's a lot of stuff inside here that we've got a deep dive you know that we know may or may not be inside of there you know the example i'll give is is southwest pack has carrier strike groups in it we did not plan on demon carrier strike groups at all for the southwest pack piece of it and for you know kind of period it's something we can do but those are the ones that we still got to go through and get through the other a thousand f t c to get there but i can i can tell you i i am very confident we will get it to you for the mason sims tab and then we'll have an internal discussion about who's got those other tabs and how that's going
+00:21:51 00:22:04  i might use the example of a massive t we're still integrating the tools in with massive and daniel will give us an up date here later on and wear wrap with massive for the want of september isn't fair to say is dependent on the maturity of that
+00:22:04 00:22:06  marcus or danny
+00:22:07 00:22:31  i think you know from from morgan's perspective before i give it to danny as it affects the scenario and we all have things we think we're going to integrate it may not affect the f t c but it affects pioneer as a total you know it would always be great if i were modelling entities that look the exact same as the aggregates and they were all talking to each other but that reply that relies on massive and that relies on our ability to make that integration happen here
+00:22:32 00:22:34  well with that i'll turn it over to danny if there's any
+00:22:34 00:22:35  clarified to put
+00:22:37 00:22:50  at be alexander had sunrise or really well earlier this morning i can remember her exact summary but it was you know right now the data model and the time management and the third thing i'm forgetting are really the key things we got to focus on and they'll
+00:22:53 00:22:54  thank you d
+00:22:56 00:22:58  bisons that answer question
+00:22:59 00:23:05  um i think so i get i just ask bryan a grain
+00:23:05 00:23:09  but what's your reaction to that as far as
+00:23:11 00:23:24  is that getting new what you need as far as we're going to do the review of the review that prompt you formal we can have the discussion on the m and s f t c tab the two weeks pirates of timber
+00:23:25 00:23:31  possibly not the other cabs more likely a meter with the effect
+00:23:32 00:23:34  adverbs an
+00:23:35 00:23:36  i
+00:23:36 00:23:47  can you react to that brian yes there's something that you know given that which to me makes sense it took a very long time to create notes
+00:23:48 00:23:53  records but one of the things that i think were going to have to have on some of the other things
+00:23:54 00:23:58  which i've spoken to bob about is a
+00:23:58 00:24:05  you know we need to take like for example we have the technical work flows is we have to have a
+00:24:05 00:24:58  corresponding sit picture of you know to create a scenario here's here the key you know functions and sequences in in the pioneer a system right we haven't ferreted out all the details of all the and of the weather and all the side making and all the scenario stuff we minimal need to capture those basic sequences some of this information for example oa showed us in his sequence diagrams but we're going to need some of that sort of information to understand you know it will be important to determine how much of a create a scenario have we got right or how much of a you know a design and war game have we got does that make sense no it makes too so i was going to wait in my mind ah
+00:24:59 00:25:18  we're going to need be markets you already talking about provide you not so color coated a spread she back to us to say when do you expect to be able to do this and this is across all the tabs then we go into that negotiation up will this act be able to show us what we need to show us in to to brian's point
+00:25:20 00:25:31  or am i thinking of this wrong no no i think you're thinking of it right ah the hesitation you hear in my voice is the panic of what's already going to happen or not happen at
+00:25:32 00:25:47  and because we are in a heavy lean trying to get there and if i pull all my my developers and all my scenario power you know trying to go through all fourteen hundred tabs i'm just not going to get to the september demo
+00:25:47 00:25:50  and that's really what it comes down to
+00:25:50 00:25:54  you know we are and i'll just say it outright like we are severely behind one
+00:25:55 00:26:03  and a little bit of it's been because we have new tools that we're integrating right i mean that that's a piece of it a piece of it is
+00:26:03 00:26:34  this paper work's important i'm not saying it's not it's just organizational but as we're getting to these sprints and i'm like a oli please stop developing for ten minutes and talk to me for you know four hours on this one tab on this one page and have the and then have the argument amongst all of us if like hey i thought you were doing that hey i thought you was doing that hey wait a minute what does what oes lorez mean what does medium res mean what do you mean by that and it's just it is i'll be ons it crushed the september
+00:26:34 00:26:39  and for all the right reasons because if we don't get this organization right up
+00:26:39 00:27:40  ah you know we will forever struggle it's a good thing it's just super it's super painful for me to be able to tell you in two more weeks i'm going to be able to sit down with you after the p m r and be able to provide that to you in all the tabs to to give you to give you a insight like we are we are trying to think there so like what we've done is we're going through this define the war game and folks from stan are basically working with a you know working with not using each and every one of these little tabs to develop the war game for o i f and that's what we're doing as we're going through and we're using not to develop the o i f war game and so we're finding all kinds of things you know so we're trying to get ahead of you at the same time but but september i'm just super nervous that we're not going be able to get you anything outside of the modeling and sem for september but we know we've got to get ahead of the bow wave i just don't want to promise you that for that time line marcus and i f for example like you take the
+00:27:40 00:28:35  not examples ah we're going to we're in design the game in the scenario and x anat you know you have those like high level a values that basely talk very generically you know there's all the details on the eft c boos just high level things like for example if you're planning to use x anat to develop the game time line and where you're planning to use it as an event control tool but it isn't yet integrated with the simps so as a work around maybe we'd say o k we're going to swivel over and create information in the sim but our intention is to integrate that and have like some sort of an export just that high level information like you know is a is useful right if you just do a really high level in a kind of a work f so we understand in a in big picture you know how the tools are fitting together you see i'm saying not not all the aches just very general you know that's a good start
+00:28:37 00:29:15  no i think i understand that and you know a part of our problem this isn't meant to be glib is that we care too much and what i mean by that is as you know as we were using the the not u i we came up with about five more things that weren't on the list like i don't care if they didn't mention it like i need to have the file repository active on the menu like it needs to be right there you know and so we we get slowed down by trying to provide true functional ity so a war game planner has a good model and we're not just chasing f t c but chasing functional ity but using the f t c to demonstrate
+00:29:19 00:29:43  right just saying don't don't yet you know burdened down with you know the relatively huge job of creating mapping for all the details it just like i said is one of things that i think we want try to sort out is how you guys see the tools being used in the work flow kind of really big picture like imagine if you said o k make a a work flow that has like
+00:29:43 00:29:55  ten or twenty blocks you know or something like that just very simple just so we you know we generally had a picture you know just think about something like that as maybe you know if if other things aren't
+00:29:56 00:29:58  ok no that makes sense to me
+00:29:58 00:30:02  any other questions from the government before i stop talking about f t c
+00:30:09 00:30:18  then we're going to go to ethan marcus mun absolutely i think i've definitely overstayed stayed my welcome on the stage by about like twenty minutes so i apologize ethan
+00:30:19 00:30:25  a ethan are you good or do you want me to do a that over view we talked about i'm willing to hand it over to you right now
+00:30:26 00:30:27  an
+00:30:28 00:30:53  i so want to do an over e a quick one of everything to be great but your yet no it's just basic what ethan and i are what we're telling you is as we go over this sonar o you know we had high hopes and dreams of being able to integrate the sonar o and we're behind on some of that stuff and so that's currently what we're you know when we we're going to cover these at pretty high level because some of the integration pieces aren't up and running yet and that's still what we got to work on
+00:30:54 00:30:56  ethan with that i will turn it back over to you
+00:30:57 00:30:58  thanks marcus
+00:31:00 00:31:04  and a jink you put the slide
+00:31:04 00:31:07  but i sure can although once
+00:31:08 00:31:10  shannon you're going out to private chat
+00:31:11 00:31:12  a
+00:31:31 00:31:33  i don't know how well you can see that may put it in us
+00:31:36 00:31:38  slide you now that's an
+00:31:40 00:31:41  o
+00:31:43 00:31:46  lego death is perfect
+00:31:46 00:31:48  um ri
+00:31:49 00:31:54  good afternoon everybody so this is eton wilson with plexus on the subject matter expert
+00:31:56 00:32:09  running the snarl working group stuff for the plexus side of the house an ascot seven working with marcus men to cover vignette one in a little bit more detail than last time when we briefly over viewed it and we have some
+00:32:09 00:32:12  a small but a fairly accurate
+00:32:13 00:32:15  position reference or some of the activity
+00:32:18 00:32:23  so fine one for the demonstration in september peace is going to be on day
+00:32:24 00:32:36  run time thing we're going to show case since the s control fight in that large area with those amount of assets is quite large we decided what was the most interesting
+00:32:37 00:32:44  peace of those days to kind of focus on that show case the capability we haven't demonstrated yet with pioneer
+00:32:44 00:32:55  um and that's primarily the surface warfare sub surface warfare and um overhead or satellite slash space kind of peace and then also trying to derive
+00:32:56 00:33:04  what are some of the interesting modelling questions research questions and concepts for a b concept
+00:33:04 00:33:17  in relation to a kind of sea control and open sea warfare against a modern adversary so a mission says right there already mentioned anti air war is always going to play into with service game anti sub anti service and the spin space dica
+00:33:18 00:33:25  ah so the blue force is present here we are assuming some attrition obviously both
+00:33:26 00:33:28  on day four primarily for red
+00:33:29 00:33:41  but we do have the service strike group the integrate air missile defense the long range fires and then the lateral regiment which will kind o be the end of vine one when we shift t the a b badger
+00:33:42 00:33:47  um red forces so i know it's probably little difficult to see here
+00:33:47 00:33:50  on this power point but if you see that white line that's kind of bisecting
+00:33:51 00:33:55  the snapshot of l g raid that's the path
+00:33:55 00:34:01  many many of the agan series of star satellites for the p r s
+00:34:01 00:34:09  so that's kind of one of the pets or f t c n try to show case related to space is going to be the coverage of
+00:34:09 00:34:12  un twenty five plus
+00:34:12 00:34:20  overhead censors on those orbits with a variety of different detection capabilities so e o r synthetic apter radar and passive
+00:34:21 00:34:26  so that's kind of the first piece of the day for which of you
+00:34:26 00:34:31  look below under the de for story entry at the very bottom with the paragraph
+00:34:31 00:34:37  red overhead gets initial indications of blue forces position via lent optical
+00:34:38 00:34:46  so this was a really fun piece to play out which had the capacity to scale quickly beyond the gulf of tig land
+00:34:47 00:34:49  of chinese over the horizon radars and how that
+00:34:50 00:34:54  we really try to keep within the box and markis on
+00:34:55 00:34:57  a jan really good at slapping my hand
+00:34:57 00:34:58  keep one the scale out
+00:34:59 00:35:05  so again keeping the perspective very kind of operation intact to the surface right here
+00:35:06 00:35:07  so
+00:35:08 00:35:15  we get some of those elan indications depending on the cons of blue forces but also assuming zero
+00:35:15 00:35:16  kind of
+00:35:17 00:35:30  over the horizon coing from anything else the coverage area of those censors in that area are so numerous that i'm fairly confident just from the model there would be an indication visually
+00:35:30 00:35:32  blue forces in their position
+00:35:33 00:35:37  how long it takes to pass that position to remaining forces
+00:35:38 00:35:42  um so that's important thats kind of the first piece with the show case to the space space dir
+00:35:45 00:35:50  and then it kind of moves into one of these little smaller boxes related to these unity positions
+00:35:50 00:36:10  it's all reference to the red forces again so there are some surface strike groups still remaining so two lang threes of the ren hi a few of the fa o bes and some of the supporting frigates knowing that we've kind of done shaping fires on rem destroyed the air field taken out a lot of those coastal defense batteries
+00:36:12 00:36:13  that's kind of what
+00:36:14 00:36:16  posing forces
+00:36:16 00:36:23  next piece if you lok the next line we say blue forces conduct as w against red submarine forces that is a really simple line but the piece there being
+00:36:23 00:36:36  the blue force is kind of in the southeast section right there ark you know gritting the water there's an a s w a force with those listed in that global force conflict list with a burke and one of the
+00:36:37 00:36:46  frigates the constellation class so we're going to see some no helicopter a s w and some detection utilizing some passive sonar
+00:36:49 00:37:02  keep moving forward red surface strike group gets indications ok so the northern section there's a couple of little islands that are inhibiting line of sight and a couple of other things the way
+00:37:02 00:37:05  script it out just for the start of day four
+00:37:06 00:37:09  is there basically intrenched and
+00:37:09 00:37:17  active locations since they've been receiving fires the shang that's kind of using the russian basin strategy stan still be
+00:37:18 00:37:20  on of a missile guided over the horizon submarine
+00:37:22 00:37:23  protecting what little access they have in
+00:37:24 00:37:25  locations
+00:37:26 00:37:45  so the cool part here would be a a couple of different ways the red surface groups get indications of blue so we have either the mineral me system pass detection that they're known to have the tile capable or we feed from the earlier story of those agan satellites pass a position or the last known position to them over some sort of red
+00:37:46 00:37:50  um and then the next part being the fun part
+00:37:50 00:37:51  um
+00:37:51 00:38:01  for the surface group for the known chinese threat as of to day twenty twenty one a j eighteens being the huge scary missile
+00:38:01 00:38:07  with a second dairy super sane cruise a kill vehicle that can sprint
+00:38:07 00:38:14  h like mock three in the terminal phase is highly maneuvre and has a very large warhead on it
+00:38:15 00:38:20  how do blue forces deal with multiple salvos of j eighteen
+00:38:21 00:38:23  into their kind of defensive screen
+00:38:23 00:38:24  so that's
+00:38:25 00:38:26  cool model in question
+00:38:26 00:38:32  that'll play out how does the new kind of ship self defense systems at the navies fielding
+00:38:32 00:38:39  with e m six how do autonomous vessels help support this fight by their
+00:38:41 00:38:42  call missile sponges
+00:38:43 00:38:53  a utilizing you know mimicking high value acid at radar or something like that but so basically just what's what's blue going to do against so many g eighteen missiles which
+00:38:54 00:38:58  even after day four assuming a consistent kind of
+00:38:58 00:39:00  engagements across the gulf
+00:39:01 00:39:12  the reni alone has like a hundred and twenty four cells a hundred and sixteen cells at the l s and if we even assume like a quarter of each that still each shooter up to thirty is eight
+00:39:15 00:39:17  so that's going to be the very i
+00:39:19 00:39:34  m while those are in bound there's like a thirty five to fifty mile transmit time about two seconds of flight time m we look at a little bit of the north western you can kind of see that there's some blue forces northwest that say em
+00:39:34 00:39:39  blue sub surface forces kind of doing more of that a passive detection
+00:39:40 00:39:50  play against red rotaries w so similar kind of vein is earlier but a little bit different in action sub on sub
+00:39:51 00:39:58  and then we arrive at the engagement of how to do the blue forces perform against those white eighteens
+00:39:59 00:40:04  we'll se how the modelling place out and then the final piece here to transition over to
+00:40:04 00:40:20  marcus vine two with the a b badger is if we've known that the lang three has kind of pushed deeper west to maybe du some c j ten attacks on the known position of the a b due to the satellite presence
+00:40:21 00:40:23  how well does
+00:40:24 00:40:27  new rogue innocent batteries
+00:40:28 00:40:31  correlation with marines and
+00:40:31 00:40:43  work to destroy those surface threats so right there is going to be a mix of between the constellation class frigate that's going to be loaded out with a naval strike missile as well as a
+00:40:44 00:40:54  the ability of the n s m to penetrate a red ship self defense which is really interesting a totally different missile set it's sub sonic but it has
+00:40:56 00:41:01  and then this piece ross is going to show case a little bit of loitering drones
+00:41:01 00:41:10  those locusts loitering munitions that can assist in kind of saturating their weapon engagement zone in their defensive area to hopefully result in
+00:41:12 00:41:14  on those two red surface assets
+00:41:15 00:41:21  so that kind of covers i call little sub events of vinet one
+00:41:22 00:41:25  pretty nice and then it flows nicely into an
+00:41:26 00:41:28  a focus on the a b p soon
+00:41:29 00:41:30  the movement at rein as well
+00:41:31 00:41:34  is there any questions on
+00:41:34 00:41:38  details of the vignette or modelling questions or anything
+00:41:39 00:42:04  yes brian gregg just one note on this is it obviously guys have noticed that the water in the gulf of tian there is like you know two hundred and fifteen feet deep so you're going to get some strange acoustic kind of results that was a something we accepted to make the scenario hypothetical for our unclassified game so i just wanted you it it's it isn't a
+00:42:04 00:42:11  it isn't weird if when you simulate that you come up with some weird acoustic stuff you know in some cases there's not even a thermal clan
+00:42:12 00:42:21  great great detail there for our our passive acoustic piece we're keeping a pretty low level model for this portion but we did
+00:42:21 00:42:27  try to consider you know as far as positioning the shang verses the kilo you know
+00:42:27 00:42:30  be more quiet in which area and then
+00:42:31 00:42:35  as characteristics of those two against the s w assets in the blue side
+00:42:36 00:42:38  but that's great detail feed back there
+00:42:39 00:42:42  when we add fidelity kind of to that that son
+00:42:45 00:42:49  and would love any more not feed back her questions about it
+00:42:49 00:42:52  i probably went into too much detail already but with love to go
+00:42:52 00:43:13  just just a note on that so for sonar you have three different kinds of propagation cases you have direct direct path propagation bottom bounce and convergent zone converge zones of one where now you're basely getting returns based off a rook chase off the thermal line requiring you to have a thermal line that thatches some weaken
+00:43:14 00:43:16  perhaps disgust may get into
+00:43:18 00:43:20  i mention as
+00:43:21 00:43:25  more towards integration and adding in these different weather and sea states
+00:43:28 00:43:33  modeling results i think it'll be the subsurface demo here will be pretty simplified
+00:43:34 00:43:41  just a show case the new capability but i would love more that that fe bec of your providing to help us
+00:43:41 00:43:42  increase that model
+00:43:48 00:43:56  so i mean that i'll back up here and i'm going to get smacked around by jean for saying this but this is why we're asking for
+00:43:56 00:44:17  and c data i know that it was like a we don't care but without temere data we can't even get those feed backs bryan and that's why we know we know that the government says hey well do do the best with what you can but if we don't have that detail we can never get into that conversation and a guy like you is going to look at it and be like there can't be any subs
+00:44:17 00:44:25  in that gulf like they would never be able to do x y and z cause cause you know something and that's why you know you hear me begging
+00:44:26 00:44:31  for the terrain data and le i know it's a pain but this is why we have him lose
+00:44:31 00:44:41  i thought we got you you flat it im i to show you i'm going to sp we going to show you where we're at we mental as as as a
+00:44:41 00:44:46  we have it in one system but we haven't been able i mean i can tell you this plexus nor i have been able to test a
+00:44:47 00:45:16  we're getting there right but i mentioned that because that's why it's been so important and i really meant that as a like a bonus were the government working so hard to give us that so we could have these conversations and we really do appreciate you working on it but it's why we're gong to push a lot of this stuff to the d t cause we're just getting such great information e you know cause the government has worked hard i mean the data we've gotten from bryan in the last month has been staggering
+00:45:16 00:45:47  and you guys getting us that d and c data so we really do appreciate that and thats kind of what this hors we were begging for it so we could have these types of conversations and have that realistic discussion about the interesting things that bryan has found in his war game so so it was meant to be hey you know cause jean told me the reason i said jean wasn't slapping around is like marcus police quit talking about terran the government doesn't want to hear about terran any more but you guys did such a great job helping us get that data and we're just at the last aches i want to show something pretty cool in my piece
+00:45:48 00:45:54  we all got to push on each other to keep us all going government pushes on us we got to push on them we
+00:45:54 00:45:56  david markis
+00:45:56 00:46:01  marcus i wonder i'm having a key observation here that i just want to
+00:46:02 00:46:10  there is going to be times when the ma will have to provide the ron a s w a m n s
+00:46:11 00:46:32  that's what your guys are count of satisfying here but there's a larger component when they do like a title ten war game where that functionally might be coming out of a you know the naval war college or some other entity and you have to be flexible enough to a in just that information as well as generated
+00:46:35 00:46:43  absolutely right i think i think what you're going to see here you know depending upon if bison can get the terra san thing up i think we've met the in
+00:46:43 00:46:49  is the generation on one side and then showing that we can in jest on the other side
+00:46:49 00:46:59  and so i think we're going to show you that we have we have met that requirement just by a little bit of help of just give us access to systems you already have that aren't classified
+00:47:01 00:47:02  roger
+00:47:06 00:47:10  rate discussion is there anything else on on vine one
+00:47:18 00:47:19  i appreciate
+00:47:22 00:47:26  he want like this marker so you once at control i'm going to take control
+00:47:27 00:47:40  ah all right just just because i i can't stand briefing off a power point when we have better tools and we the show show everybody kind of where we're at so in the past you've heard me talk about vignette too which is going to be e a b o operation
+00:47:41 00:47:51  um and so this is what we had in the past you know which was me just putting down an icon in l g raid saying that this is what the concept looks
+00:47:51 00:48:18  and and we're doing translations of you know me whipping out my dictionary to be able to figure out hey what's that river in here and we've got some translation here but through some of the efforts of the government and through you know c a e now we're able to inject military maps right over the top that are salable any military person would look at this and we'll instantly know ah hey that's what i'm looking at
+00:48:18 00:48:26  he's not trying to do it over shape files that you know when i show a shape file you know oleg talks to me in shape files cause that's how the computer
+00:48:26 00:48:42  so we've got now a system with c a e with some of those in jest to where now a military planter can come in and get the next piece of ground and so we've got that working you're going to see that inside the scenario which i know this isn't impressive to
+00:48:42 00:49:43  you know maybe others but me as a military planter this is the dream tool to be able to do this and especially now that terra son is going to show you that they can take this if you couldn't give us this map in a machine readable format they can generate that data and and we'll cover that later but this is a planter's kind of dream the other piece of that that i want to go into that's even more impressive and i must show you something that you've seen before but it's it's it is applicable to this vignette and more importantly it's applicable that i can do it as as the dumb grunt in the room and not oleg and all the engineers and so what we've done is we've been able to take that southwest pack that entire scenario that you gave us we've worked with velocity where we've just chopped it down into hay i just want this stuff ingested just for this vignette i don't want to slow it down i just want the forces that are in this vignette and so they were able to take that and they're able to make that injustice something that i can
+00:49:43 00:50:02  around in something that i can play with and an example is as they were able to invest all the data that that brian gregg you know gave them inside of there and be able to put things like calm inside of there and it it'll matter this pre view of why i'm showing that kind of matters and what what is super assume is its easy
+00:50:02 00:51:01  to be able to get it in there i literally end up just by about five clicks later of just saying hey i'm on the w g c project i want to incorporate then i want to incorporate an ord bat these are all the ones that that alex has given us of spud and all his guys have made that super easy and i know there's a lot here but i'm just kind of showing that like strolling through it to show you how much data there is that he just has sitting inside of his system but even more importantly it's custom sale because i created this vignette inside of spud's system i can go through and find my southwest pack vignette inside of here and up load it and you can see a bunch of tests that we did there it is right there's my vignette i can go in and grab that and get that data imported and i can go through and find that person and see if that radio is on him now to make things easy i was just showing you how i could quickly do that that's already been done
+00:51:02 00:51:37  ah you know we are able to go through and lay that out so now we'll get the titles down later we're getting some of the inde so everything you see here is ingested from spud and what he's done with with his assets and i can come in here and start to look at things that that matter ah you know that shows what spud had inside his system i can find that you know that that platoon commander find that r t o and look at his radio and with something we're going to be able to demo later on as we think we'll be able to show the propagation of that radio and we'll show you where we are with the use
+00:51:38 00:51:43  so so the good news is that we are making good progress in some of the incest pieces
+00:51:44 00:52:12  we're behind you know on some pieces of it we haven't been able to test any of it inside of this terrain with this depth with any of this so far that data is coming over and we've got some some working models which will show you later with the supply but that's as far as we've gotten of being able to do it over here inside of this terrain and it's just a matter of getting the data getting systems to talk for the first time and making sure that prototype will be where we need it
+00:52:13 00:52:28  so that is where we're at right now with the e a b o concept again this one is going to be mainly a logistics focused piece of it and so that's what i have as far as the e a b o and where we are inside the sonar
+00:52:28 00:52:31  any questions before i move into the next
+00:52:37 00:53:38  o k so the next vignette most of you have seen this you know we are going to be able inside of this next vignette we are going to be able to show you a some execution of some saber and some civilian forces inside of this one this is all a test architecture so in other words it's brian gregg said hey here's a ghost this is some data i have with it it's not classified it's the best you can get see if you can run a scenario with that and so we will run a scenario with that we're to get inside of here we've got to basically do some sibert attacks on the civilian architecture taking out routes and cell phone towers so that civilian architecture doesn't you know let the enemy know where we're at against enemy anti ship missiles and some attacks on some of their c two nodes that will limit the effects of those and then we'll have you know some of what brian gregg has given us as far as gar mother ships and gars themselves coming out and executing while
+00:53:38 00:53:54  tests you know a test concept of a gos toria boat company along with all its assets actually executing a raid in one of the main port facilities inside of cambodia itself while the kind of autonomous systems are out here
+00:53:55 00:54:20  once again we haven't been able to to get a working system up yet we're still getting the last pieces of this in just these systems and settling ing them once we get those then we'll start the testing and making that piece of it happen so really we're still kind of where we were with the sketch and we're finishing the incest on these systems to be able to get ready for the demo
+00:54:21 00:54:27  and trying to get us back on track if i end there i think we'll be able to enter any questions on vinet
+00:54:29 00:54:38  marcus just one quick one with an ag ray if we have a platform that has a like a search ray or something that's the
+00:54:38 00:54:50  the cos and active mode or its emitting is that electronically detectable and does l g ray represent you know the ability to detect an active active signal signal signature
+00:54:54 00:54:56  marcus ay i like it o
+00:54:57 00:54:59  e
+00:55:00 00:55:07  we'll do this in two parts song number one inside of alger yes we we do hazard detection
+00:55:07 00:55:09  the party s
+00:55:09 00:55:22  but i think the more challenging problem we are trying to solve right now is how to properly pass all that through massive so that not only is that happening in grade and i'm sure ethan
+00:55:23 00:55:41  explain how that also can happen inside of ascot but how to communicate the through massive so that if an entity controlled by ascot starts a meaning and algebra controlled censor wants to detect it how do we properly do that and then tying it to the communication structure with
+00:55:43 00:55:44  reason
+00:55:45 00:55:51  ye i was just going to cover down and say that i believe it supported for all g and that we add fidelity to it on the back end for the
+00:55:55 00:55:56  and that's that is supported
+00:55:58 00:56:01  it the challenges just to how to get it all through massive but
+00:56:01 00:56:03  all the systems of course support
+00:56:07 00:56:25  this is shocked ah quick question on vine three and what you're displaying right now so i get the blue i think i get the red i see the yellow and green a and purple a my assumption is but please verify those are civilian a
+00:56:25 00:56:26  o
+00:56:28 00:56:51  no entities is that correct or that is correct and so what we're trying to do chuck this is this is into a stretch and not a stretch we're trying to teach a couple of different things or get the systems to recognize a couple of things how do i enter civilian structures into massive so this same ship shows up in v b s you know when it's moving in l g raid and inside of ascot
+00:56:51 00:57:27  and then you know and those are things that are not ah are not that easy and so that's what we're trying to do say how do we put this in what's called the pill at the massive level that this is a cell phone tower how does that map to v b s that there's a critical cell phone tower how does that map to eat to let them know that that's the signal that we're trying to knock out and we believe having those civilian info structure is in there i changed em from yellows to greens just to show something different would happen at each one of these and so that was just a color coating for me to be able to talk to the team that i need a power plant
+00:57:27 00:57:39  a right m we need to be able to model that power plant and we need to get that injected into the massive pill so it can talk you know what happens in l g raid happens in v b s happens in ascot and happens in
+00:57:40 00:57:41  so thence wen des are
+00:57:42 00:57:43  appreciated
+00:57:55 00:58:08  o k jean i hand it back over to you and i think that puts us a little bit more back on schedule we're back to we're over to danny danny you want me to share the the the mass up slide risky work yes please you sure
+00:58:22 00:58:30  get a hello run again a so y talking to have the mass of up they hear from coal a engineering
+00:58:30 00:58:33  ah so we are
+00:58:33 00:59:09  in retrospective yesterday and we're kind of high in a high five in mote at this point we think i helped to support a sooners across our internal team is doing better than it has ever and doing pretty good actually we know it' going to get better but but we feel like there've been a lot of issues that come up and we've also knocked them back out of the park and fixed them were provided documentation and i everything in a relatively quick turn around a and folks even seeing progress on the other side of the fence which makes us feel really good that you know we're answering questions and seeing results
+00:59:09 00:59:17  ah so that that that is even high biggest high highest i lighted for us i think all these months ah
+00:59:17 00:59:34  we have send more documentation out to developers even ongoing discussions now still how to improve documentation make sure information gets out things are easy to understand when people say they have even minor problems we write tickets and just document the stuff so we want them coming up again
+00:59:35 00:59:52  ah then we have also provided several examples of se pos plots for implementing capabilities similar to t i s a and folks have kind o grabbed at quickly and are kind of ready at the next phase of well here's here's what's missin here's what we need to do next that's good
+00:59:52 00:59:56  again a sign that we did what we thought we needed to do there at least from our perspective
+00:59:57 01:00:06  ah so yesterday we had the time management meeting originally we were scheduled i think for to day but we flip flopped meetings and so was yesterday
+01:00:07 01:00:14  but ah the meeting was canary cap of an older meeting but also some time had passed and there were some revelations
+01:00:14 01:00:19  on some progress and time management we had yesterday discussed by both us and the stillman
+01:00:20 01:00:51  in g raid so a management we we at least have a road map and a kind of a way where we want to go with this thing at the same time the team is implementing some some prototype of the prototype and we were going to take this information and feed it after our september demo and essentially hunker down and really flush out a design for this and internally in our team we are actively preparing for that now so that so again that seems from our perspective to be a pretty good thing it's on track
+01:00:51 01:01:01  ah and a part of the next potation for us after september on our side will be to implement some sort of time server which we're in the middle of
+01:01:02 01:01:12  aye so that here the bullets as craft planned through september but actually we also presented where we think we'll go in december and march and it may be in face
+01:01:13 01:01:22  and ten a c s the case support for datum all changes a lot of discussion about this still an area where we're working in it the team effect you heard some
+01:01:22 01:01:31  discussion in the last demo about ah no we're trying to colet data now how do we send these things over to others simulator and
+01:01:31 01:01:56  you know what effects the data model we call the pill the the order of battle or the of the orbit or what effects the data on the wire that con were still figuring the stuff out we were figuring out you know how do we represent units or representatives and what's an efficient way to do that that's probably the trick there it is not to overwhelm a simulator with the data it doesn't need but also provide the live detail you gas are loki
+01:01:57 01:02:00  so you can figure that out ah
+01:02:00 01:02:16  and we have also a interest of solution what we provided in last month provided a disability now to extend the data model and were essentially an enterprise now trying to test it out with folks and try it out
+01:02:16 01:02:32  we had the capability as for a is envisioned right now is to extend a data mode was there and so that that's our position at the moment so we're trying at sea does that work can we extend the data model or do we really need a replacement of data
+01:02:32 01:02:34  so that's that or a middle figurin
+01:02:35 01:02:43  we provided examples in joe et us so i think that covers the mass of stuff if i lets anything out there
+01:02:44 01:02:47  the catch is a massive chap tyson
+01:02:48 01:02:52  a days the ticing to spirit your one point about the young
+01:02:53 01:02:54  about feeding
+01:02:55 01:03:14  what sort of surgically feeding the right data to the sins depending upon what they really need versus overwhelming them that's obviously you know a really important point so i deftly be interested in i'm not asked for anything special i just mean doubly something i want to want to follow right as you make progress on that
+01:03:16 01:03:25  yup yup yup a lot of brain storming this morning with rot about that actually and i haven't had yet a chance to screech out the old leg bench they and were to have some discussions on
+01:03:25 01:03:54  and yet it's a lot of things it's actually everything now everything's got the same theme you know maybe to day's problem is radios or whatever or state or whatever but but we got to solve this problem across the board it's sometimes where we want to look at an i now you know this we talk about it also know the high level aggregate level you know i'm just trying to run a theatre level thing and to see some some picture in that regard and at other times we just got to investigate at the lowest level possible to understand the many gritty little details and we got to support all these different types of
+01:04:01 01:04:03  ready to go thank you danny
+01:04:08 01:04:13  use your inner face so jo is steve are you out there for excellent for see
+01:04:14 01:04:55  i am i want m just of a project manager here at force and i'm going to be kind of running through what we've gone over and worked on for the past few months and then showing some of the functional ity in the actual use no face so the topics all cover are some additional eye frame functional ity i'm enabling kind of toggle and an easy access of the different applications while in the pioneer use no face a new data entry fields that fall under some of the p specks that we've had to give a brief up date on single sign on that's something that's still in development we're going to show that off in the near future and we're using a component called key cloak to do that and what that does is it
+01:04:56 01:05:16  logs in on different applications and then gets authentication from that log information and shares proof of it between the application so it enables you to be logged in on multiple applications at the same time and share data between them and then also sign into all you no when you sign into one you sign into all
+01:05:17 01:05:37  and then the last thing i'll cover will be an open a p i dock we've been working on and that's that's much more of a a technical kind of under the hood a brief demo that i'll give that will not be something that the user actually works with but will kind of show how the different applications
+01:05:39 01:05:40  i'm so
+01:05:41 01:05:46  an i takes take a trowl from eugene to go into the arab e head
+01:05:50 01:05:53  i can stop sherry if you won't no should be good
+01:05:57 01:06:34  ok can everyone see the ease this is the same same landing page as before a calendar and everything maps work the same as before so going into an application or into a war game we've added kind of an additional front dashboard that displays your your war game information and breaks it out from the other faces and then this is functional that has not been completed yet but this is where kind of a file share will be that will enable users to easily up load and share files as they're working on
+01:06:34 01:06:36  and had easy access to inform
+01:06:37 01:06:50  so going into the different phases what we've done here is we've added by phase and it takes a second to load but we've added by phase the different eye frames m for where we think we'll need them and we can
+01:06:51 01:06:55  adjust those as necessary but you can see now that you can pay
+01:06:55 01:07:05  different frames easily on wall working on wall editing fields oven if we go for example into develop where we have all three of the applications that we
+01:07:07 01:07:16  o you have you rad loaded up you've got i got velocity and you art and will take a second to load here
+01:07:17 01:07:35  as a brief demonstration you can you know you can be doing stuff in these in these eye frames and toggle back and forth and they're all still a live session so you know i'll hit i'll hit play here the scenario would start playing out and then you know all that was going on i i could go into five you can
+01:07:36 01:08:02  easier navigate i could be you know in this case it's just a the metric catalogue that's loaded up but you know if they were actual metric analyzing what's going on in al g ray they'd they'd be running you'd be able to see them a you could work with data in just a in velocity at the same time and then you know if you look we'll go back to al g ray and you'll see that you know this has been progressing and happening the entire time and so so this keeps all the applications going at once
+01:08:03 01:08:10  i could edit and enter data here and that's a kind of the functional that we've incorporated with the
+01:08:11 01:08:13  book with a different application
+01:08:13 01:08:14  at this time
+01:08:14 01:08:20  m you'll see that you know or repeat the arms application when you're switch back and forth m
+01:08:20 01:08:24  maintains the session and keeps you in the proper spot level
+01:08:24 01:08:41  so the next thing i'll go into is in the different the different specs that we've ah put attribute fields in that enable the users to enter data and so kind of go down the lists and give up a brief ah
+01:08:41 01:09:25  a brief showing of each one so the first one is you know you can see now we've added location for a in putting the war game project planning team members so that a p spec nine zero nine same with stake holders as well that's p spec eight seventy one and right now these are these are just dumb simple text fields that the kind of changes manually but absolutely intend a to work up with functionally of futures for them to be you know associated with users that you know you're long ten as and you can you know you get picked users you can you can decide exactly who's going to be and it's a search able data base so that you can assign people am associated with ca and so so on and so
+01:09:26 01:09:29  i'm moving on to a
+01:09:29 01:09:34  sign phase of the organic i introduced the ability to select
+01:09:35 01:09:50  your scenario type so that's part of spe nine twenty three m and that so there's you know a whole host of auctions here that that were listed under f t c for er drop down men that you can select from
+01:09:51 01:09:55  im thinking with a piece back
+01:09:55 01:10:21  nine zero one for game structure i'm sorry i an i think woud go back a little bit for nine o nine it was a little fast too to compare with some of the f t c oh im so amen this is just i hear on just when we just took the list of f t c and made sure that each one of them was an option from the from the drop down
+01:10:21 01:10:31  are ye able to see the chat that ken peterson put in ah not this time now no shore it's so di ay again
+01:10:32 01:10:35  yes you have but i put those empty seas up there
+01:10:36 01:10:40  o ah he added if you knows any clarification dan
+01:10:43 01:10:51  um and so then coming down to similarly he same drop down style list for a war game format
+01:10:52 01:10:56  on which it falls under the barium structure p spec nine zero one
+01:10:57 01:11:11  the f t c that were listed under that one and then similarly for pa nine two nine a your your time progression method saying you can kind of select as a turn base is it is it faster than real time how
+01:11:12 01:11:20  how the ah how the the warran will progress and if necessary in it we ken we can add additional option
+01:11:20 01:11:44  remove options or tweak them completely as required and then for p p eight seventy three m there's there's ability to put out assumptions and fi and that's m there's actually a kind of two there's there's technical assumptions and fi all in the fine phase and there are
+01:11:44 01:11:48  on planning assumptions and aries which fall under the scope face
+01:11:49 01:11:57  yes so could you go back to that screen you were just at where you're defining ah the scenario designs
+01:11:58 01:12:03  no no she's the one that's a love
+01:12:03 01:12:23  ok yo so when you are going through and up dating you show the different drop downs in everything u how flexible are those drop downs different menu options are they a considerable so if down that a new type it doesn't require new programming
+01:12:23 01:12:25  that is that is correct yes
+01:12:26 01:12:31  they're they're easy to change and adjust as as necessary based on
+01:12:31 01:12:34  developing requirements going forward
+01:12:34 01:12:48  e requirements so would require coating to a new one sites i meant i meant just to know as the as circumstances changed not not not requirements in the same sense of me
+01:12:49 01:12:56  eet ees not so cold dis very easily i could go in and i could change the adoptions am
+01:12:56 01:12:58  it would not take long or a few minutes
+01:12:59 01:13:07  ok but there's a menu for an administrator that can go away to make those adjustments yes as ever o k i appreciative
+01:13:07 01:13:11  and you may want different ones for different war games
+01:13:12 01:13:13  that s white
+01:13:16 01:13:18  very very easy
+01:13:19 01:13:28  so any penning any questions on the the attribute fields i will go into the a p i dock for a bit
+01:13:29 01:13:47  and so as i said just to briefly touch on single sign on that something that's still in development but we've made good progress with it and we were going to start working on integrating with the other t members starting next week believe we've successfully been able to to test the component on inside of force
+01:13:48 01:13:50  noko
+01:13:50 01:13:55  his key cloak accepted currently within the i c o do dears that
+01:13:56 01:13:57  something that will have to do
+01:14:01 01:14:11  i'm not sure to what extent it's been used in the wider deity community but i mean it's a component that we have
+01:14:12 01:14:17  complete control over am within our application so i don't foresee ben
+01:14:18 01:14:19  rode
+01:14:21 01:14:53  s so moving on to the the open p i dock again this is much more of a technical demonstration and you know s we kind of added new points of an improved functional ity for for m getting attribute information and and kind of exercises and attributes communicating effectively with the a p i and communicating with other systems but this is this is much more of a kind of a brief developer oriented a part of the demonstration
+01:14:53 01:14:55  i i'll pull out of now
+01:14:56 01:15:45  and so this is the the opening p i man units got a lot of functional ity that's that is meant for kind of wider ego applications but when it comes to worryin it will focus on this area called exercises and so what this does is this enables you to go in and you can either depending on the type of information you want you can pull information that covers a wide range of exercises or or just a few a narrow subs and then you can also determine do you want all the information for an exercise or do you want you know just kind of the key header data so this one will give me a lot of information for each exercise and what this enables other applications to do is using e this information they can code and share data from their
+01:15:46 01:16:00  and pull data from the pioneer user inter face so pu pull data from these data fields and incorporate it um you know into the applications that are in the eye frames and vice versa they can also share data from the eye frames that will go into these data
+01:16:01 01:16:06  unto this is conscious the first wider on detailed search
+01:16:06 01:16:29  including everything searched i talked about so when i searched it you'll see now these are current war games ah and you'll see these ones have not been put up with too much information but if we go down to the southwest pacific demo there's tons of information for all of these these different attribute fields you pro statement and all the data is in here and it can be pulled and easily looked at and accesses by other
+01:16:29 01:16:47  a and so then going down to if you just want yes that's a lot of information if you just want kind of the simple and i just want to know what war games exist in the system right now this one surges it and it just tells you kind of the basic title information for each war game and without all that additional
+01:16:47 01:17:15  ation and so then using this i can take the key from this ap from this war game and i can go and look for specific attributes related to the war game or look for information within the war game so if i put the key from south west specific in here and execute it will display all the different attributes that that are in south wood specific and so what this does is is using this
+01:17:16 01:17:25  the the curl and the u are all here this enables other applications to pull this data out of not m and and put it you know in their applications as
+01:17:26 01:17:29  and then what ought specifically show is
+01:17:29 01:17:38  i'm going to this this kind of the opposite so this enables applications to talk to exit so i've already looked up this information ahead of time
+01:17:39 01:17:52  run smoother am but i'll do a for metric because that's something that will work the hive and so say your you know you have your looking am
+01:17:52 01:17:59  here looking at your war metrics and you know right here it says percent i value targets destroy
+01:18:00 01:18:12  and then say you were in a going through your matric for specific war game and you decided that instead of a per cent be targets destroyed you wanted a
+01:18:13 01:18:16  to look out to fire let be
+01:18:17 01:18:34  so not very easy again this is all based on coating that would happen on the back end why if you know somebody selected that option in hive and this is integration that's jobs to happen but i execute her we'll see is now going back to this screen
+01:18:34 01:18:57  it was cent hi target sort a second ago and now its supply rates so what this demonstrates it the capability of using this open at framework information from here can be pulled into hive and vice versa that's functionally that hasn't been fully developed yet but this shows that you know kind of where the capability will go in the future of
+01:19:00 01:19:04  pending any questions ah that's everything i've got for the force
+01:19:07 01:19:10  yes i have one question go ahead him sir
+01:19:12 01:20:07  ought to see my this tyson i'm back on your on the eye frames and the key cloak authentication just going to ask you so i you know based on the security controls and those kind of requirements on the stuff lake would it be and i don't know how key cloak works right but i'm just curious so let's say you got several different you know frames up you got the different tools open and you're not interacting with one of them for a while would it you now would you be constantly being kind of logged out of the different pieces and have to log back in or is it sort of maintaining that i ever noting work it it will maintain it will that set some of the integration that we have not done yet m but once one fully integrated yes key cloak will automatically send that information if you click to it to the eye frame you know it will will re remain the same single session
+01:20:08 01:20:17  and so if you were to log out to you o you log if you actually went and logged out it would log out of them all but as long as you remain logged in and whatever you were working on it would refresh the
+01:20:20 01:20:25  i see thinks don d you have any fall upon that or is that get in thy answer
+01:20:31 01:20:35  mason i think that was a smet who answered i ask the original
+01:20:37 01:20:44  i is just asking doc something about security controls and i don't want to say security controls without giving don a chance to say what e's talking about
+01:20:46 01:20:48  now at the good question he brought up and
+01:20:48 01:20:52  as we've been going through this i guess they're over all them of discontent cas
+01:20:53 01:20:55  the t was just delivered to us
+01:20:58 01:21:00  you know what these headings we're talking about
+01:21:01 01:21:08  thinking out loud you know we're going to make sure of it we're not changing something that in like conflict with a surety control but
+01:21:10 01:21:16  but this one specifically out you know if a one of the questions i ask is is does this require like an amant function to go in
+01:21:17 01:21:24  stop you stay tradin if so you're goin to have it an old token which yo goin have to take out you know when you con of don
+01:21:24 01:21:26  oh i don't see the issues with that
+01:21:27 01:21:30  over all we do see to make sure that and were not in any conflict
+01:21:31 01:21:32  the rock controls
+01:21:38 01:21:41  sans good year the me sans
+01:21:43 01:21:51  one other question if possible spring gregg just just the question as we're looking at the metric
+01:21:51 01:21:56  content that you are just showing it is the ambition that you have to
+01:21:57 01:22:51  cause as you described it it sounded like were planning out active integration where as a metrics assessed from simulation output in the hive system you're tracking it you're envisioning then that you know exercise control folk are actively monitoring and managing the game from an exercise control perspective with accident not just as a design of preparation tools as that fair thee and i think depending on how they wanted to do that a you that could be within hive a in an accident you know this this b this is hive metric analogue to a it could be this could be you know actual ate bash bord a within a
+01:22:52 01:23:02  you know within on one of these frames with with leg rayed in another frame going simultaneously but at the same time it would also be possible to know just in the action
+01:23:02 01:23:10  i also have you know in one of the economic boxes on various reflections of the of the analytic data
+01:23:13 01:23:21  i can just add to that sory and the er within hi of it all o different people to log in to give them only access to
+01:23:22 01:23:24  either the mole or clive
+01:23:27 01:23:31  like how you described how it was a channel log you know it cut up
+01:23:31 01:23:37  it's ease you know cone as from an over view perspective a
+01:23:38 01:23:42  organizes the data in a sensible
+01:24:01 01:24:05  is that it for you joe hip that's everything that's everything for me
+01:24:05 01:24:20  o k m if no more questions there were to go over to i chuck jake with now from c a e cot you want me to share the slide or if you can share the slide that'd be fun and then i'll switch over to share in some content so we can walk through
+01:24:23 01:24:32  while he's doing that jean this chief from for c i did some checking and key cloak looks like it's fully integrated with d o d p k
+01:24:34 01:24:38  chief and i want you to pass the mike that joe did a great job
+01:24:40 01:24:42  s do you know
+01:24:45 01:24:46  o k chuck
+01:24:48 01:24:53  ok so marcus stole a little bit of our thunder by showing some of the integration
+01:24:54 01:24:58  we have gone through on the t g s side and have made changes to the app
+01:24:58 01:25:02  to support both consumption of d and c chart server data
+01:25:02 01:25:04  e forgettin that chart server for
+01:25:05 01:25:08  of time and effort to go through and do all the styling and symbology that's
+01:25:10 01:25:21  and then we've also gone through and added in support for military maps which marcus showed you integrated in l g bain this is all kind of new and fresh so there're still some active integration efforts going on as far as
+01:25:21 01:25:38  server performance and those kinds of things but what we'll show to day is some of the map layers that we've integrated the slide i've got it written down as t l m fifty and hundreds along with jog maps but we've actually expanded it out to include a larger list of maps than i'll show you shortly
+01:25:39 01:25:42  and then the dancy chart server sorry for the
+01:25:43 01:26:05  the d n c chart server is integrated what we've done for the d n c chart servers we left the sop word alone we didn't really want to touch it so we've created a dock or container that runs the d n c chart server and we are streaming that data to t g s so that all content comes from t g s as far as the operators are concerned and the applications are concerned we're going to go through and manage those that way within control access
+01:26:07 01:26:10  so i will start sharing
+01:26:11 01:26:12  see my screen
+01:26:20 01:26:37  yes right so nothing too sexy to show here right out of the gate amy what we have is t m fifties over over the little same area that we've been doing a lot of our training you can see in the bottom right hand corner i have actually just cried a little j peg of where we've down to this date
+01:26:37 01:26:56  these maps came from men's map of the world web site so we down loaded the content and we've gone through and expanded from the t m and the jog as to include the full list of maps that you see in the upper right hand corner so we've got the g n c the g n c the jogs the o n c maps the t p c maps
+01:26:58 01:27:03  a at a high level o o n c and up the one to one million and higher
+01:27:04 01:27:09  one to five million g and c maps they have global coverage for those maps from the n
+01:27:09 01:27:11  you can go through and we'll have the full sweet
+01:27:12 01:27:16  implemented later on right now we just have the a o i that i've shown you in the bottom
+01:27:16 01:27:19  on the t p c the jug on
+01:27:19 01:27:25  the jog and the t l m maps there's a little bit more sparse coverage on those maps and so in some instances you'll see areas
+01:27:26 01:27:28  and there where those maps don't exist
+01:27:30 01:27:44  so these are copies we down load the data we convert these cates to jets and then we are streaming them through the go server so as the operator scrolls in and out you'll see it start to page in a different data at the different data layers
+01:27:46 01:27:47  my slower case
+01:27:47 01:27:49  trying to do a demonstration
+01:27:54 01:27:56  and because so i receive an urchin
+01:27:56 01:28:03  when we when when we go through to the different zoom scales what you'll notice is that it's starting to switch through the different types so we see the jog
+01:28:03 01:28:06  now when the one five hundred came
+01:28:06 01:28:10  and we've got coverage support firm for large areas
+01:28:13 01:28:14  this was
+01:28:14 01:28:28  this is one area where there's going to be a little bit of a static data dump that has to happen the other one that we worked on was support for the d and c maps now this one is still a very active integration there's a couple of reasons for it i'll talk about
+01:28:30 01:28:38  on the d and c maps the server is running in a separate server and we can go through when we can stream out the w m s streams that provide map
+01:28:39 01:28:42  and you'll get more and more and more detail as you zoom into areas
+01:28:48 01:28:59  one area that hasn't been kind of flushed through completely is on the w f s side where we're going to pass the features from this dance chart server
+01:28:59 01:29:11  across to folks like the bohemians v w s so that they can then consume all these points that produce the metre data set that goes along on the tile floor on the ocean floors
+01:29:11 01:29:18  so that's that's a very active area and earlier discussions talking about the depths of the water there you can kind of see it's not sue
+01:29:19 01:29:24  and there would be submarine issues in some spots that you wouldn't be able to tell from just a regular picture
+01:29:26 01:29:33  that is kind of everything in the nutshell that we have right now i think that the
+01:29:33 01:29:40  the dance map support will be integrated with l g raid within the next week so i would expect it for the september demonstration as far as the
+01:29:40 01:29:42  d see maps go
+01:29:44 01:29:47  and i don't have much to with was that quester
+01:29:47 01:29:51  as up the you n got question on it so am
+01:29:52 01:29:59  but were i to chuck a and i i should going to be meeting with a
+01:30:00 01:30:07  ore spanish in the nob ocean next week at m c i a
+01:30:08 01:30:17  we we can't a made this a kind of just to see if it helps does it sound like we should be starting to talk to them about a longer term
+01:30:18 01:30:21  im the supporter poacher
+01:30:22 01:30:45  i think the way we implemented it we could we can do a lift and shift kind of a thing if they were to go through do up as to the neal chart server we could just take new releases of that chart server and integrate them quickly into the docker containers and push them back out onto the as time goes on so if there are new features that are getting developed in their space then it does make sense in some capacity to have reach back
+01:30:48 01:30:49  i answer your question
+01:30:50 01:30:53  ye wor wor william
+01:30:53 01:31:03  perhaps i have some kind of a way with them so that they can can let you guys know and this is post
+01:31:03 01:31:16  you know a c three kind of things but we're trying to line up these agreements so this was the this wasn't on the original list so i would think this would be one that we wouldn't want to keep some reach back to those skies as things in all
+01:31:17 01:31:41  took it thank you i think that the effort an we've tried to make it as simple as possible you know we follow their general installation instructions into the doctor containers we don't touch their code we don't touch anything we just stream it out and then we manage the streams through t g s so putting a new new chart server in and making sure that things were working similar fashion we shouldn't be all that
+01:31:42 01:31:43  now that we've nailed down some of the
+01:31:45 01:31:47  pensive
+01:31:50 01:31:56  ave a quick one if he a question regarding the map my service
+01:31:56 01:32:02  so obviously the map the radical map sir or one of our bigger you know
+01:32:02 01:32:04  data storage
+01:32:04 01:32:18  hogs if you will so in terms of o k go here to to t g s i've perused the maps that are available and then how am i bundling those for use from a display perspective in the other system
+01:32:19 01:32:38  are you planning to a are you planning to a publish those o be a map sure could you briefly talk about how that you in vision that working so so just like we saw with ole ole suffer we didn't provide ole with any new map content he actually was taking the streams directly from the t g s instance to be able to
+01:32:39 01:32:43  rendering those maps so we would have one copy of the maps on the t g s server
+01:32:44 01:32:49  and we would stream them out through the web protocols to the different applications that wanted to render
+01:32:49 01:32:50  the man
+01:32:53 01:33:19  again then one more question so so you mention on one of the charts the the idea of implementing operational graphic right and so obviously when a user draws operational graphic that are tied to their you know let's say a play or course of action for example it's heavily dependent on what background rafter map they're looking at are you envisioning that being done in t g s or are you envisioning that being done in a different
+01:33:20 01:33:31  i think i'd have to lean on oleg on this one but i think that the operational graphic would be in a different system t g s would just be supplying the back trap that was being used for those for that
+01:33:32 01:33:36  then can you elaborate on what you mean by the operation graphic as being heavily
+01:33:36 01:33:39  related to what they had been drawn on top of
+01:33:40 01:34:21  they are cause you think about it what you're what you're looking at by way of the map a background is when you draw operational graphic you might get down to considering a feature like a road or a river as being a boundary so just important when someone is physically drawing graphic you know what what map background they have and as you know there can be you know subtle differences between the projections of different map sheets which the system can help fix but you still often have this case of simply differing levels of resolutions that are visible to
+01:34:21 01:34:29  you know a few will users players you know at that allow them to draw the graphic to a certain degree of detail so i it does make a difference
+01:34:29 01:34:36  you know what the map background is that players are using when they create graphic especially for ground for ground
+01:34:37 01:35:11  i think i understand so in that sense chuck is right that the operational graphic would be drawn in the the common pine which is age radii that marcus was using earlier but as the user is drawing those he's free to switch between different kinds of these vaster backgrounds so as marcus was showing a we can take this feed allow the user to see this as they are drawing the operational graphic if that's the one they want to base the operational graphic on or they can flip over and two different aster background and maybe do it based on in a satellite imagery
+01:35:13 01:35:35  but what's of course really critical is that if they draw these graphic based on the roads they see on like a map we they're looking at right now on chuck screen but then that's not the road that happens to be in the simulation system you know ther the vector data that was ingested then there's going to be a mis match between you know the vector data that drives the simulation
+01:35:36 01:35:41  it may be different from the aster and therefore is now different from the operation
+01:35:42 01:35:55  i think honestly those are just real problems in the mapping world that there is no clean solution too there's always going to be discrepancy between mapping products and there is always going to be these mapping products that were created to be human readable
+01:35:55 01:36:00  right now ah that will be different from anything we have in the pental
+01:36:04 01:36:05  very good thank you
+01:36:11 01:36:17  and so no anyone else has questions sheen i think this kind of covers the the map and the d and c chart
+01:36:18 01:36:20  thanks to grio
+01:36:20 01:36:36  and we're seven minutes ahead of schedule from what i can tell guys so that's a good thing i next up we've got a bohemia and richard brake and though a little bit break you want me to share the screen again oh yes what jacket
+01:36:39 01:36:46  good afternoon rich brake project manager over here at bohemia all with me i've also got jack wells
+01:36:51 01:36:59  ah this previous spring bohemia was somewhat light we are focusing on to rain up dates and then we also had a resource issue
+01:36:59 01:37:05  and turn over so we weren't able to get a couple of things done that we wanted to but they will be
+01:37:06 01:37:11  our focus was on the g a g i s area
+01:37:11 01:37:15  for the scenario as well as the full extent
+01:37:15 01:37:23  we provided the g i s terrain out to the pioneer partners we got feed back with trying to a fixed at and
+01:37:23 01:37:37  we ourselves found it a bug earlier to day with our v v s for rain so what we're going to show you is the tude overlay of g a and then the point correlation
+01:37:37 01:37:42  between our high resolution insets at g a seven and what
+01:37:43 01:37:46  for said jacob he went on hi deck that
+01:37:49 01:37:52  to muse i'll see
+01:37:58 01:37:59  a king
+01:38:00 01:38:02  they're bracing my screen oka
+01:38:03 01:38:09  i should i be a whole pile of a cor sprat now i jump back out
+01:38:10 01:38:17  area so i have the two inset areas seven g eight
+01:38:19 01:38:22  this is the sore state of this being a juncture
+01:38:24 01:38:27  that was provided to us and atterson was processed
+01:38:29 01:38:32  of the importance of
+01:38:32 01:38:37  of what we've been working on is making sure that there's a correlated sanity
+01:38:39 01:38:50  sum some of the applications in the complete minor system have relatively low resolution requirements too this is an urban area this is a
+01:38:51 01:38:57  aforesaid area representing rather large areas and another application down to
+01:38:57 01:39:09  b can deal with doors and windows and hinges a level fidelity individual blades of grass and such a so that's what we've been working on in the
+01:39:09 01:39:14  the inter structure would be able to provide that semantic correlation
+01:39:15 01:39:19  so let me just jump into a part of
+01:39:21 01:39:23  servant to
+01:39:27 01:39:35  and actually i'm going to start by turning off what we've been doing and going back to just an open street
+01:39:35 01:39:41  going back to a topic that we've had several times before but to
+01:39:41 01:39:59  bring it up again for context i looking at open street maps data here just reminded the there's very few objects that are actually populating here so while open street maps has very good road coverage there is almost no building coverage there is a few select
+01:40:01 01:40:11  large structures but entire neighborhoods are missing for whatever reason somebody has populated these two streets there and the entire rest of the neighborhood is miss
+01:40:11 01:40:18  the automation that comes with terror tools goes a long ways to solving that problem in a couple of determinist
+01:40:19 01:40:28  approaches and provides the output either a medium resolution for constructive simulations or ultra high resolution for collective simulations
+01:40:29 01:40:35  and the way we do that and i'll talk of that lair back on and now you see it's a starting filling
+01:40:38 01:40:47  a so the black lines are representing the rows that we pulled in from open street maps and adjacent to that you'll notice that there's both points in boxes
+01:40:48 01:40:57  some of these points are placed procedure to spawn billions at those locations or light poles or any number of other
+01:40:57 01:40:58  data points of
+01:40:59 01:41:09  in addition if there is biding footprint available that that's available for the other applications all that's being used to feed our procedure buildings
+01:41:12 01:41:15  if the application is able to
+01:41:16 01:41:22  a blan placement sure that data is there i fits able use blain footprint that data is there it's all correlated
+01:41:25 01:41:31  and this also includes other surface material types such as aforesaid areas a
+01:41:32 01:41:43  a travers ability of constraints is is a cleared paved road exist as an open field of and all that data is structured with i
+01:41:44 01:41:48  enormous number of properties are going through the automation pipe blind
+01:41:49 01:42:07  we see a attribution ideas are going back to the original sum idea so for v v and a purposes we can follow the chain of custody from where that the source road segment originated if there was a data error along the way
+01:42:07 01:42:10  we can appropriately point fingers
+01:42:10 01:42:17  as a problem with source data was a problem with the processing or where was that at
+01:42:20 01:42:24  ah and then there's properties that are going
+01:42:26 01:42:27  stimuli such as
+01:42:29 01:42:31  that can be placed in there
+01:42:34 01:42:35  a
+01:42:35 01:42:37  et so
+01:42:37 01:42:49  we used the exact same process that we did the earlier i g seven four and we ran the same pipe line for for g to flush out the data there at
+01:42:50 01:42:55  so this is a review of the g i s layers and a break
+01:42:56 01:42:57  filing that's in
+01:43:00 01:43:04  any commercial yes iv the question
+01:43:04 01:43:17  so when you when you're generating these train features is especially geo typical i what what we might find in those areas or are you actually converting actual a and displaying that
+01:43:18 01:43:22  a that that's completely up to the source
+01:43:22 01:43:26  to the point of j
+01:43:26 01:43:32  specific jail correlate the surface classification types
+01:43:36 01:43:40  only you can read this of the greens and yellows
+01:43:41 01:43:43  and so those are
+01:43:46 01:44:01  so e the brown lines those represent cleared paved areas and those being directly extracted either from combination of imagery image classification or from the vector data from
+01:44:02 01:44:14  so those are precisely correlated with some of the billing placement if i jump over here some of these things are like street lights and such street poles where that that data wasn't in
+01:44:14 01:44:18  and we didn't have high enough imagery for
+01:44:19 01:44:28  detection those would be placed procedure in the agis say if you want the life poles to be a
+01:44:29 01:44:37  ten meter space sena one meter away from the road that's a scrip perimeter to automatically generate those
+01:44:37 01:44:40  all the roads within a given jeal bounds
+01:44:41 01:44:45  does that answer the question yes it did thank you
+01:44:46 01:44:52  you dis intice is represent a rail in the
+01:44:52 01:44:54  as a layer
+01:44:54 01:44:56  i
+01:44:56 01:45:10  that's just another data layer i don't believe i've actually i don't think i've got rails within this data set but there's no constraint on either the terr is in process inside
+01:45:10 01:45:14  or the v b aside for placement of rail lines
+01:45:14 01:45:16  phemius does have a
+01:45:16 01:45:18  rail vitalization
+01:45:18 01:45:21  for placing him as just essentially different skinned
+01:45:23 01:45:26  phoebus does not have a real simulation but
+01:45:26 01:45:28  have a real visualization
+01:45:36 01:45:39  on any other questions on the
+01:45:39 01:45:40  a process
+01:45:45 01:45:49  i i don't know if you're really getting to the go typic
+01:45:54 01:46:03  point of the speck of where we might be trying to conceal where an operation might be occurring due to sensitivity
+01:46:03 01:46:08  oh i understand you're filling the gaps because the features
+01:46:08 01:46:14  depicted or or category catalogued system no
+01:46:14 01:46:18  ted can you dress up
+01:46:19 01:46:22  generating go typical o
+01:46:25 01:46:29  a happy do so a break you want first dibs on that or would you like me
+01:46:32 01:46:41  so with the automation pipe there's nothing that's necessarily g specific about the
+01:46:43 01:46:45  it's just the data that's gone be
+01:46:46 01:46:55  if there is desire to have a completely arbitrary fictitious location there there is nothing that constrains it to this specific location
+01:46:55 01:46:59  want to a pickin empty spots o alma
+01:46:59 01:47:06  indian ocean and i use po shop and create an arbitrary height map and make it completely
+01:47:07 01:47:15  fictitious there's no constraint in either the trained preparation tools or fibs to
+01:47:16 01:47:21  in fact a couple of the data bases are included with us
+01:47:22 01:47:31  out of the box or legacy roll over from vibius three and prior that were built exactly in that manner and so we've positioned them out in the middle of the ocean
+01:47:31 01:47:34  arbitrarily to support those exact happy use
+01:47:35 01:47:37  i preciate thank you
+01:47:41 01:47:43  absolutely absolute
+01:47:45 01:47:57  that's a good point cos actually i often tend a focus on the g specific aspects for a co train but absolutely v b s does have the ability to
+01:47:58 01:48:12  create whatever fictitious terrain drop that in there using the tatus process and the source data that would go into that can just as readily be exported to any of the other applications l g raid
+01:48:12 01:48:17  on as it is essentially a fictitious data
+01:48:17 01:48:19  in go specific structure
+01:48:22 01:48:23  roger
+01:48:24 01:48:46  this chuck daniels so i'm curious on this screen what you're showing right now you've got a lot of of points that are being represented oh i would have to guess several thousand oh if not hundreds of thousands of points being represented in this just the two grays that you have there
+01:48:47 01:49:02  what is the computing load to be able to manage all this and if you don't have it that's fine i'm just curious you know when we start growing this out even bigger to more piles i can only imagine the a work load
+01:49:03 01:49:08  a sure and that that's a couple of strings the territories of
+01:49:09 01:49:15  a billy there i wonders a bash mot manager a billy that allows you to shart it up in
+01:49:16 01:49:39  cells and run the exact same automation process across multiple cells in parallel a and then the individual steps so there'll be a sequence of identifying positions adjacent to a road and that runs in parallel across the road and then there'll be another subsequent step to actually place a
+01:49:40 01:50:02  to optat the object definition for that position so like for example street lights there'll be a one step to go and extract all the roads next step to generate positions adjacent to the roads and next step to generate the light light pole definitions for that so it's all right in sequence there it's extremely salable to
+01:50:02 01:50:13  a continental scale or larger just you just stamp o morning notes in the cloud there in terms the output a something yu're seeing right now is actually
+01:50:13 01:50:22  more of the source data view where there's a multiple of concurrent dea types so you'll see that billing footprints in addition to billing placement
+01:50:23 01:51:00  in v b s you're only going to get one or the other you're not going to have a billion placemen on top of a billion footprints that that's that's necessarily duplicated in the source data but the individual output with grad v b s for ascot et cetera they're only going to have a singular output there so there may be say four different source primers for four different source data types for a given building but each of the and resulting day bases will only have one of those four types that's appropriate to their
+01:51:03 01:51:05  ge thank you
+01:51:12 01:51:13  any other questions
+01:51:14 01:51:17  no said jacob
+01:51:18 01:51:21  ah that's what i've got unless brake has anything else for me
+01:51:23 01:51:25  or john fingers
+01:51:25 01:51:27  the correlation
+01:51:28 01:51:33  a good point as so a
+01:51:35 01:51:47  in here so take a look at this promontory area here we've got some roads just to keep this in mind for reference we've got a few billions not not a whole lot a
+01:51:47 01:51:56  then we'll jump over to v b s and here we've got the same promontory now the different forest sos b s
+01:51:58 01:52:01  si a renan
+01:52:07 01:52:09  i
+01:52:15 01:52:17  you come
+01:52:18 01:52:35  so so center left you've got the exact same promontory we're just looking at the roads are placed there in this case bus just gets an arbitrary vector for the roads but then based off on those properties the size which texture with scale
+01:52:36 01:52:41  and and painting to texture that at one time you've got
+01:52:43 01:52:45  a variety of different building types
+01:52:45 01:53:05  we've got a resolution custom malls in v b s that are placed at individual points that have been generated relative to the road so t this building would have been placed a procedure using that terro automation to get to get the road position get the blamed space in such
+01:53:06 01:53:11  ah then we've got other buildings that there is a footprint that was
+01:53:11 01:53:33  so in these cases er billing that's automatically grown a procedure based off the footprint from open street maps so the footprint in this case is very go specifically precise if something l g ray can read billion footprints for a path plane such that's going to be exact same results in both
+01:53:36 01:53:44  a there's obviously some constraints of automatic placement but for a
+01:53:45 01:53:50  make a city at constraints this is the most practical approach to filling
+01:53:54 01:54:02  could you range it on the air field a it should have been kind of left center sole view we are looking at
+01:54:03 01:54:07  you just ak the oranges here and
+01:54:12 01:54:13  the other way
+01:54:18 01:54:19  back over this direction
+01:54:22 01:54:23  a very no
+01:54:25 01:54:37  i thought it was to the left ye should be directly behind the ram port facility like so where you have your purple kind of like in the middle of the purple blob im on the one blow out
+01:54:37 01:54:39  down down left
+01:54:41 01:54:45  oh and keep going down
+01:54:46 01:54:47  taco
+01:54:52 01:54:57  so i think the air field was still under construction and this is this is
+01:54:58 01:55:00  snapshot here for for
+01:55:09 01:55:14  one of the reasons for my question is that a
+01:55:14 01:56:07  i think if this is a capability an offering to the three model is a very nice representation and i think you can expect players would use it so in the amphibious raid vine to e there you see the location of a runway players are going to use it to do things like target planning and so one of the things i think is of note is sort of saying o k there's a relationship you want to make sure that the representation of those key features that are like bridges and air fields and runways and no that are target able objects for a vine like an amphibious raid you know if you're going to simulate that analogy raid you want to make sure that there's a correlation between those at least key objects i just wondered if you wouldn't mind about that just the fire roll quick there ok so al but to the southeast so right now you shober see the airfield
+01:56:08 01:56:27  s this is using just a basic placement here again this is actually this is not a hand painted texture this this texture is actually derived procedure from a runway placement known interet so using the outline
+01:56:28 01:56:33  open street maps is able to build this whole complete runway
+01:56:35 01:56:51  and work spain that capability to include taxi ways and more complex li and such so just a zoom out here give a conduct relevance so we've got the large built up city center to the top left first beach a promontory and second beach
+01:56:54 01:57:03  back to the g s maps get there the top left till you got the sea built up barrier first beach promontory second beach and there's
+01:57:10 01:57:11  v p s
+01:57:17 01:57:18  back to the map
+01:57:24 01:57:25  questions latent
+01:57:28 01:57:29  now t fire
+01:57:32 01:57:34  i thank you
+01:57:34 01:57:35  thank you gus
+01:57:36 01:57:38  and we are right on track
+01:57:40 01:57:42  i'm the next up we got
+01:57:43 01:57:46  i believe it spun with velocity and
+01:57:48 01:57:55  no peg now we're going to have a doctor calloway do that for us so he'll pick up
+01:57:55 01:57:59  fouquet you want the screen or you want me to bring up your
+01:57:59 01:58:01  ah we like to
+01:58:02 01:58:03  you've got it take it away
+01:58:39 01:58:41  we check on real quick
+01:58:45 01:58:48  we hear you lot in clear spun just don't see your screen
+01:59:12 01:59:15  we are even having trouble when his brows are here
+01:59:21 01:59:22  t
+01:59:23 01:59:24  you ought we can move
+01:59:25 01:59:27  on and come back
+01:59:28 01:59:34  can is ready chris a thought we're going next up his analytic up dat der go ahead
+01:59:35 01:59:42  right o chris are you out there for stew if you can give me a push on
+01:59:43 01:59:45  you've got it all you got it to go ahead and take it
+01:59:59 02:00:03  i do perfectly i come we see it
+02:00:05 02:00:26  vacate so i'm going to give a brief up date on some of the stuff that we've been working on over the last month for the analytic so some of the bits and pieces that danny's already touched on regarding massive and th integration of the and some of the metric development and then just mention one of the other bits and pieces that we're working on which is the analytic map
+02:00:27 02:00:34  and it's a massive integration and that's been a lot of the work been going on so far to make sure that we can get all the different data coming out of
+02:00:35 02:00:39  massive and available for us and in there so actually
+02:00:40 02:00:51  not expecting you to read it but the stuff on the right hand side is actually reading data subscribing to a the massive channel and receiving all the data a known and being able to understand it
+02:00:52 02:00:53  and put it was in the
+02:00:55 02:01:20  part of this also is what we're doing as where reiterating to understand exactly what data exists what data needs to be added to the data model and that we're not receiving and where we aren't receiving it or where we're looking for it then we're either going through and saying can we add it to the massive data model and making sure that it comes through or and where we're done in the past where we directly query some of the simulation system so we've ingested data from
+02:01:20 02:01:31  a scale six ate an l g raid passing some of their data as well and also as joe i lighted am integrating from the stuff with not to be able to pull into things like them
+02:01:34 02:01:41  one of the other bits and pieces that we worked on this week at this month am the government kindly provided us with the
+02:01:41 02:01:54  stan so that's the capability code and capable statements which are used for defense planning and operational planning we manage to get hold of and the latest version so that's the develop there
+02:01:54 02:01:57  and this provides us with ability to loop them
+02:01:58 02:02:18  in the first instance we be able to tag within the orbit all the different relevant capability codes against the elements and being able to actually use that part of the analytic to either derive metrics or derive groupings that we may be able to use as part of that in the analytic working group there was some discussion about a
+02:02:19 02:02:23  a data base that contains all these rather than at the moment they exist
+02:02:23 02:02:32  a large pad document provided by nato and what we'll do is over the next a couple of weeks we be able to try and integrate
+02:02:32 02:02:42  if the data base exists or manually add them within the metric catalogue m and the ba to be able to tag them and flag them against the relevant
+02:02:42 02:02:48  metric and irrelevant orat to be able to provide the aimless debility
+02:02:49 02:02:54  to select those a and select them as part of them and then see the outcome of those as they are demonstrated
+02:02:56 02:03:01  and what we've also been working on is an ana ray map and this was our
+02:03:01 02:03:21  way of trying to articulate exactly where the analytic are going to go how we can achieve all the different pipes relating to the analytic and articulate them against a specific er scenarios but also make sure that we're recovering where some of the analytic where some of the p specks are quite
+02:03:22 02:03:28  quite sporting quite difficult to achieve in the early phases how we can process and flow them
+02:03:28 02:03:45  so what we've also done is is taking other reference documentation both internationally and the d o d a i strategy to try and make sure that we're coherent across all the different documentation and provide that so we're hoping to at least but you say a draft version of that come then
+02:03:46 02:03:47  come for the i p r
+02:03:49 02:04:03  particularly making sure that we articulate and things like tax on my to make sure that people understand where we're using things like a i and m l because quite often they're quite interchangeable but actually we want to make sure that we articulating them clearly where they're being news in halbe
+02:04:04 02:04:08  and also where we think there will be certain elements that
+02:04:09 02:04:16  are not able to be achieved in phase two or difficult to achieve in phase two
+02:04:16 02:04:18  without creating large amounts of
+02:04:19 02:04:28  dummy data then we articulate how the process and everything else but also then articulate weather can be done in phase three where we have large amounts of
+02:04:29 02:04:31  data available for us
+02:04:32 02:04:41  and so as part of the road map we produce the time line for each of the phases so that the first on the left hand side in the light blue is a south west
+02:04:42 02:04:45  and that's going to cover a number of
+02:04:45 02:04:48  p specks e p specks at the top
+02:04:48 02:04:53  it that one the middle one is the o i f scenario and where we reply
+02:04:53 02:04:57  achieve a number of the other p specks and then finally the
+02:04:57 02:04:59  meadow east
+02:04:59 02:05:10  theatre of strategic air is going to be on the white hand side in the light and each one of those will be producing a demo and up dating those ticing and demonstrating
+02:05:11 02:05:20  how they've been achieved and going through there and we had a really good conversation and i with brian and because some of the piece pecks
+02:05:21 02:05:25  are very as we say sporting and requiring
+02:05:26 02:05:33  ask why they generate a certain amount of false data or large amounts of data hit with data
+02:05:34 02:05:39  so that's why we try to put them towards its author the far end or a high light where they could be
+02:05:41 02:06:08  and just to focus in on the e i p in september what we've tried to do is a within the snare working group and articulate exactly a particular question that's looking to be identified so this one's mass without vulnerability of concentration articulate these into a series of questions we're commonly going through the process of articulating all of the metrics
+02:06:08 02:06:22  to achieve those where they exist within the pioneer war game data how they can be calculated and processed all the way through to demonstrate a number of a dash boards which will come into as part
+02:06:24 02:06:31  kill a victim score board the integrated censor communicate effect and espouse the score amis
+02:06:32 02:06:46  and then what we want to try and do is is where we start articulating all this data as mentioned is where they can go next as part of things in in phase three so where you start getting into predictive analytic which will
+02:06:47 02:06:55  start articulating things like and what's the best a ne century combination for mission success we won't be able to achieve that a
+02:06:56 02:07:00  in phase two given the data but were it's one of the things that we're looking for in terms
+02:07:00 02:07:02  if ether forward in face
+02:07:03 02:07:06  i paused now for any questions on the
+02:07:10 02:07:38  just one note on that you guys had asked the question in many cases with the the p spec analytic the scenario research questions or the the validate test cases provide you know some decent specific examples of some of the types of things you want there you guys had brought up the question about for a couple of those a performance based
+02:07:38 02:07:45  on questions like in a babel to down lo in a billion number records that for some specific examples
+02:07:45 02:07:48  we we can no
+02:07:48 02:07:49  we can research
+02:07:51 02:07:57  yes absolutely i think a couple of those and i think it's a good conversation to have
+02:07:58 02:08:03  whether you want us to show the process for how it would be achieved or
+02:08:03 02:08:04  you're generating
+02:08:05 02:08:07  it two billion roads and columns
+02:08:10 02:08:20  four times ten to eighteen a data points generating that just to show that it can be done or show the process private a
+02:08:29 02:08:35  that's me just to be clear this is vivian i think we dropped that requirement out of the piece back
+02:08:43 02:09:11  i that's the same one we're talking about bryan omens billions of columns of supply that and that that might that might be the case vivian is in point like where we had one that we say you know two directed grafts and in our test cases we say o k you know a logistics flow is an example of that here's an example you know of something you know that you wan't shown that's one that they asked about and i couldn't produce a specific
+02:09:11 02:09:21  you know example of what would test that you know it yes but i don't know you could be right it could have been weeded out and might have been weeded out
+02:09:21 02:09:34  i know it was because industry unanimously vetoed it or said it's a waste but won't let's take this off line i don't want to keep everybody over that we'll find out
+02:09:35 02:09:38  thank you i think that one's pipe three seven one
+02:09:38 02:09:40  and sofa it's been dropped in
+02:09:45 02:09:51  thought's me good thank you chris i'm going to check back in with spud
+02:09:53 02:09:54  how are you doing
+02:09:54 02:09:59  this is with alex are you all able to hear me yes we got you
+02:10:02 02:10:03  badian
+02:10:09 02:10:10  think of your illness
+02:10:12 02:10:14  you got you
+02:10:17 02:10:26  m o k s my name's in cowboy with alex am and i'll be going pretty quickly through these slides because there's a lot to cover but um really
+02:10:30 02:10:37  a case the purpose of this presentation is to introduce three tools underdeveloped by alex that create a pipe line for the processing and analyzing of converse
+02:10:39 02:10:45  we have a speech to text tool which automatically transcribes conversational speech from audio and video files
+02:10:47 02:11:00  which takes research questions to help develop for war game and identifies conversations relevant to the question and we have an exploratory data analysis tool which can be used to automatically generate analytic from a collection collection of
+02:11:03 02:11:14  s a no sorry can i ask n for your speech to text did you guys have that before finer and o w c the path we've been headed down
+02:11:14 02:11:19  ere the belle recently to my knowledge nothing i i got out ere
+02:11:21 02:11:26  i got to we we had a basic capability but it was not our meeting
+02:11:26 02:11:32  your piece back requirement until a until een got on board and developed this
+02:11:33 02:11:34  forbade
+02:11:36 02:11:37  a
+02:11:38 02:11:46  am so the avers that i'll talk about is speech to text which automatically generates transcriptions from multi media files a
+02:11:47 02:12:03  the p speck for this project it accepts wave files m b files and a b i files m and other file for mats as well we're not dim ding those functional ties to day and the recording that you'll you'll be seeing throughout the slides that came from an m p four radio file
+02:12:05 02:12:06  oh
+02:12:07 02:12:16  it is a container command line tool a exactly how it's been inter face with a pioneer hasn't been defined yet but there's some flexibility in the exact form form that that can take
+02:12:17 02:12:26  am so it produces transcriptions which report at this point two pieces of information the transcription itself a model best guess at what was said and
+02:12:27 02:12:32  indicates when that bit of conversation was produced relative to the start of the audio pile
+02:12:32 02:12:46  m we're interested obviously in absolute time stamps for the conversation so like when exactly the line of dialogue happens relative to other time periods in the war game m and as time control within pioneer continues to be developed will evince
+02:12:52 02:13:03  m so according to the project piece this model should have a word air rate of less than twenty per cent and it actually achieves that m on bench mark data it achieves a word air rate of two
+02:13:04 02:13:06  and on am
+02:13:07 02:13:12  ting so as you'll see the pioneer pioneer mo from last month ad achieves a word air rate of about
+02:13:14 02:13:26  a it performs well on audio recordings except in cases where people are talking over one another and if the audio is the quality of the audio is poor either because there's too much background noise or
+02:13:28 02:13:38  i'm to make sure that the war gaming audio act usable for for down stream analysis we'll have to eventually have a discussion about what the actual war game recording environment looks
+02:13:41 02:13:44  soma switch over real quick too
+02:13:47 02:13:48  to
+02:13:54 02:14:03  it is the tipe of one quick question on that speakers talking over each other your le s ask you see if you are talking about a room and you've got
+02:14:05 02:14:45  but say you got two equal volume speakers right one's right next to the other they were next to my friend they're talking over each other o k it doesn't perform well i guess my question is is that still the case if you've got one person mainly talking ay and maybe more distant but quieter you know there's something like con there is in fact another person talking in that room it's showing up but it's you know much quieter you know there's a clat like a person would say i know who's talking and i know there's some people kind of talking quietly in the corner i mean is that still oh no not going to work because there it's only going to work if a single person is being received
+02:14:47 02:15:06  we'd have we'd have to um run som testing to to say exactly how robust it is but um in general as long as one person is significantly louder than the other then the person who's louder will be captured well and then the person who's much quieter if they get captured at all ah
+02:15:07 02:15:09  body of that particular van scription won't
+02:15:09 02:15:23  sophy if you had um like one person close to the mike and then a few people across the room talking quietly to themselves um you're still going to get a decent transcription of the person who's close to the mike
+02:15:26 02:15:27  o gething
+02:15:34 02:15:36  these is
+02:15:37 02:15:39  yes thanks him
+02:15:40 02:15:46  am case so assuming that you all are able to see this new window am so
+02:15:47 02:16:02  demo last month a the t this output showed shown on editor tool which basically allows for the text to be displayed and edited in line with the audio recording on which i would play for you all but i don't think fit the audio would be piped through
+02:16:02 02:16:04  and
+02:16:04 02:16:05  a
+02:16:07 02:16:22  a the ah the word air rate for this demo is about ten per cent a an it shows actually the quality of the transcription am in most cases so in focus on this line here am it's very clear to see what's actually being said and hopefully
+02:16:23 02:16:25  this works you'll be able to see that it matches up with
+02:16:28 02:16:38  and takin alba what tyson said a wild bat and a ther scorpion is two kinds of war games those that are in the operatives that play the war game and o the a
+02:16:38 02:16:42  the robots as focus more cope
+02:16:43 02:16:45  an i a oh
+02:16:47 02:16:54  but the scenery working group and the process flow between the cinara working group and the a working group in marin
+02:16:54 02:17:02  at all clothes but you'll talk about the vines one two and three there an become enough to overwork me for for i p r number four
+02:17:04 02:17:06  so wild edith
+02:17:13 02:17:21  yes ok see you can see that i sort of what was actually said and what's represented here seemed to match up fairly
+02:17:22 02:17:26  ah so that said there are still some cases
+02:17:27 02:17:40  the transcription what's being said am somebody used this line here am in this case i believe there's two people that are overlapping in talking and so this first portion of of the line is a little bit garbled
+02:17:41 02:17:43  and anto ben record
+02:17:44 02:17:46  so you can see that it captured
+02:17:47 02:18:06  m that the report the meeting is being recorded but this first part m because two people were talking at about the same volume m this is just not correct m so that this is something to keep in mind in terms of creating an ideal recording setting to actually capture the audio accurately
+02:18:12 02:18:21  ok so the con content search is a tool that can be used to search through a collection of documents and identify sections of texts that are relevant to queries that you might have about the
+02:18:22 02:18:26  am these queries can range in size am its pass bad
+02:18:27 02:18:30  all phrases entire sentences are even multi set
+02:18:32 02:18:34  switch over again to see with
+02:18:36 02:18:46  so this stem of the concept sir also uses its transcription output from the demo last month on this tool can be used simply by writing a manual query
+02:18:47 02:18:49  for for a particular war game
+02:18:53 02:19:00  she met us two queries actual and i'll show you kind of what both look like so the input here is security classification
+02:19:00 02:19:06  ah and so you can see on the right which sections of this particular
+02:19:07 02:19:10  am orated as most relevant
+02:19:10 02:19:12  to the particular query
+02:19:12 02:19:18  and if you look into that you can see at a paragraph level on which paragraph is rated as most
+02:19:20 02:19:26  and so you can see right here that the result actually seems to match up reasonably to what
+02:19:27 02:19:29  if i typed in security assif
+02:19:30 02:19:35  it's also possible to run on the longer query as well and so if we try that
+02:19:38 02:19:45  om so this is not just a single word or like om a small phrase but a full a full sentence
+02:19:49 02:20:05  where m the this this section corresponds to the most relevant m relevant section of the document and then a click here m this paragraph is rated as the most relevant paragraph within that section
+02:20:18 02:20:25  come so finally the exploratory data analysis tool can be used to produce metrics about a document or a collection
+02:20:27 02:20:32  briefs recordings of conversations as will be doing very soon interviews or more
+02:20:32 02:20:44  this sort of tool would be especially useful to analysts who want to write a post game report about what was said during the war game it could also potentially be useful even during game planning to assess intelligence briefing in order to build a course
+02:20:53 02:21:05  am so this is a demo of data using a sub section from the same transcript as as you saw before so this is still the july demo am you can see the text from this document in this box here so this is
+02:21:07 02:21:11  of the transcript being used for use for analysis
+02:21:11 02:21:17  a and when you click the run button you'll see you would see a series of metrics being generated
+02:21:18 02:21:23  to the first components of this toll i give the user an idea about the document as a whole
+02:21:24 02:21:26  im so the summers ation
+02:21:27 02:21:36  of the most distinctive things that were said in the overall stretch of text m as well as key phrases m that could be used a capture the document and a mors
+02:21:37 02:21:46  a the gram's component gives an idea of what words or phrases come up most often throughout the document and this topic modelling
+02:21:52 02:22:06  the sentiment analysis section gives the user an idea of how people were discussing certain ideas within the document and the location and named into the recognition components give the user an idea
+02:22:07 02:22:08  tins were talked about
+02:22:09 02:22:22  m for now you can see that the categories a the category is reported for the named an to the recognition component they're fairly general but in future versions of this model a those categories will be domain relevant to
+02:22:24 02:22:26  and finally we have a keyboard search
+02:22:27 02:22:30  to identify sentences in the document that contains specific
+02:22:38 02:22:46  a so we eat is all with three tools that could form a processing pipeline for conversational data our data can be transcribed searched and and
+02:22:47 02:22:56  we'll be needing to work with these war gaming conversations eventually when generating post game reports and these tools have a potential to form a backbone for the analysis of the conversation
+02:22:57 02:23:02  conversational data can then be tied to par metric results to build a complete plus game
+02:23:03 02:23:06  more generally any analysis of conversational data
+02:23:08 02:23:15  the pi plane may also reduce the barrier to entry for the analysis of speech in other domains by making it a process that can happen quickly and in the background
+02:23:23 02:23:25  so the question
+02:23:29 02:23:53  are you sir you saying you're mining this information out of un structured logging information that users in organ participants are recording as in a blog or are you actually trying to also mine it out of a recorded in a game cell speech or plenary session speech or something like that
+02:23:54 02:23:56  so i think i misfit the last half of the question
+02:23:58 02:24:00  i got it down
+02:24:01 02:24:15  yes we are doing it on real time you know the conversational data we could do it on any type of data that we the text once we have the text we can then mind that data as well
+02:24:18 02:24:20  thank you
+02:24:27 02:24:29  right o you think it look for en or spud
+02:24:31 02:24:36  the good news is we are eight minutes ahead of schedule the bad news is we are passing over to mark
+02:24:39 02:24:49  he's going to rap it up your for or i lose some of our time i i appreciate the shout of confidence jean i'll remember that next time i try to catch you up during the senoria
+02:24:49 02:24:51  pondering i
+02:24:52 02:24:57  so i'll start off with a power point which most people know
+02:24:57 02:25:49  i despise and jean you can see he's already getting excited he's eating candy over there cause he sees a com wire diagram and that makes him super excited and what we're trying to show here is some of the things that we've put in the modelling and simulation tools and i'm actually not going to be the co de graw that's going to be old so i hand it to him for something that's alive m but when we try to do communications architecture and understand whether our systems can actually talk to each other and being able to really use this energy of pioneer which is having a you know a very high powerful tool like exod but not making somebody have to be an user of exod to get the benefits of it and so what we did here is i just made a quick wire diagram of one of our older scenarios and i'll pulled up that scenario just so everybody can see it but but it was this naval landing
+02:25:50 02:25:54  and so trying to understand how could all these systems communicate
+02:25:54 02:26:42  would we be able to query them and see if they got out of coms or in coms as they were executing find out where our dead spots are and so what we've done is inside of inside of l g raid being able to speak to pioneer we've got a com plan that we can down load and to show you that it may look like a lot of data but i'll show you how i did it i started at a three eleven and i was able to put almost all the com architecture made up for the e a b o and i'll show you that here in a little bit so that took me about fifteen minutes total before i just kind of stopped and said we're good enough but as i pull this up what it allows us to do is take one of those com nets assign protocols assign whether it's h f assign whether it's wireless and if i want to i can just tell it to ignore equipment
+02:26:42 02:26:58  because maybe i don't have all that data on me right now you saw what we ingested from from from spud earlier it gave me the com equipment but what if i just need to run a quick war game and i just need to see hey this is roughly what i want to put in here and it allows the user to be able to say hey i'm going to make up the field
+02:26:59 02:27:17  i'm going to say it's a thousand i'm going to say it's two hundred or i going to have a default setting that i want to put in there but these are all click able items if you have a link protocol you can put those in if you have a certain band you can put those in and this allows the user some custom ation of i may not have all the data so i'm just i ignore
+02:27:17 02:27:30  if i don't ignore the equipment then it automatically takes everything we ingested from spud and it uses exotic tools to say o k now you're going to have to go by the specks of that radio and that equip
+02:27:31 02:28:07  the other thing that this allows you to do is it allows you to create groups to see who's connected when and where so these were all the ones that i put inside of there and then i can look at the group of that so who's all talking on you know that net and i can easily select people in and off of that net if i want to if i wanted to give the el ka that net i could give the el ka that net and be able to see if they're connected inside of that system or i can quickly remove them or add them back in as the whole sag has that net they are going to talk on the e s g actual
+02:28:07 02:28:20  and so that's a way that we start to put groups together and start to figure you know what are the niche ones that have certain ones so this is g s g naval fires i don't need my l h d and i don't need my l p d to have that but all the marine forces
+02:28:20 02:28:26  they need to be able to call for naval gun fire and coordinate naval gun fire and they're talking to the naval ships inside of there
+02:28:27 02:28:53  and so we put one of these together and were running you know a test bed with eate to be able to say he can you show us you know snap shots of the carm architecture show us the heat map show us when units lose data and find data or you lose communications and find communications and put that in there and then what i did like i was saying just you know as i was enthralled with the voice demo i quickly just put one together for what you saw me in jest earlier to day
+02:28:53 02:28:58  so this was done while we were sitting here and i was listening to the voice demo if i pull up the right
+02:28:59 02:29:34  a while we pulled up the voice immo i was able to come in and create this and so what i did as i had one of my guys who's pretty damned good with calms i showed him that earlier to day a hugo jerry sent me o k this is what your calm architecture would look like for that and he put it all in he gave that to me and inside of fifteen minutes i was able to load that com architecture into l g ray and then that will eventually talk to eat when we're running through and to see how easy it is is i just have to say what units i want inside of that com group
+02:29:34 02:30:27  i just got to say what what com nets they're talking on and then that puts them all in a group being together so this system is designed for somebody like you now jean who was a commoner back in the day to be able to you know push his glasses up on his nose and really get into the details of i know who this belongs to i know who should be talking on that net i know how all these systems get together i know what channels they should be talking on and and i even want to go into you know some details inside of there and so what this did is were we allowed this one because spud gave us the data i don't even have to have the equipment i tell you know i don't want you to ignore equipment i want you to use that actual com frequency i want exit to have to model that appropriately coming from that ship coming from all of that data that was inside of that system
+02:30:27 02:30:51  and again it allows us you know because of the ingestion because a pioneer working together we get to model all of these so these will be the systems that will be talking on that u h f or that v h f model and it will be properly modelled inside of l g raid so the war game can get to war gaming the analytic engines behind that can run and see how long we're in coms how far along we're out of coms and how that works to
+02:30:51 02:31:13  much like we talked about you know when we showed you our first model of of of how we ended up running this from an amphibious demo the working model isn't there yet we're still working on the integration we're still working of how to make that hit run and see how those work together but that just shows you a stair step of where we're at with the modeling and simulations teams and some of our
+02:31:13 02:31:18  so with that i will pause before you get to the truly exciting part of what oleg has to show
+02:31:20 02:31:50  mar marcus you might have shown it brian cried but just wanted it it is early to visualize the members of the particular networks that you created so few can be showed but this platform is on this network can you flip around and say this network has these platforms and so that's that's what this one is ah brian so what i did here so just to kind of let you know as i chose the group so everybody who's on you know on this channel right i want to see all the users who are on that channel this shows me those user
+02:31:51 02:32:14  now we're working on the visual and this is where getting feed back from the government as you know what we'll end up doing is this is just a drop down menu eventually when we have it running you may be able to select that net like you'd come over here and hit group five and it would show you all the connections between those ships or between ah those those folks who were inside of there cause that's all the ships inside of that inside of that one task organ
+02:32:14 02:32:40  and so if i had them placed in different locations i didn't i just made it easy as you guys watched me drag and drop that that in there but i could just as easily say like ok i know where this guy's going to be right i'm going to give him a command to go to re supply and he's going to conduct re supply between these four points because i've assigned him that and oleg will show you some of that ah but that that is the way we would be able to do that so i could go in here and i could move this guy out and move him through a
+02:32:42 02:32:55  and we're still is our train isn't fully ingested on this side of the house that's why you see that big yellow mark m but this one has a c e fifty three on it so that would be able to tell you kind of what's in that system and how he would do that and who he would be talking to
+02:32:57 02:33:19  less of marcus but i've never heard anyone put exciting and a you sticks together congratulations that that's because you haven't you haven't seen ole go yet he's getting ready to in my opinion i get dirty about stuff that was always really hard for me as a planter and so when i see somebody give me an easy button like
+02:33:19 02:33:20  this communication to
+02:33:21 02:33:27  i guess i'm easily excited but i appreciate that in any other question
+02:33:28 02:34:20  there's a factory in the little p c that loses thirteen he can't put the c in his radios and or it just perfect calm no it it's actually jean you know you mentioned that in jest but it was something we were talking to about a modelling free copying modeling those types of things and having that put in there and it's something that we're continued communications to get it as realistic as we can but a guy losing his stuff you know i guess i guess you know we we can talk to oleg about this and now he'll really kill me you know we have good models for when we end up showing i can't show it right here just as i i've got it selected in a wrong manner but you know you saw it right here jean did we give your guys a competency raiding with the their communications capability just like we do with a competency and aggressiveness of
+02:34:20 02:34:38  moving units and how they ac so that's that's where we're at you know it's it's easy to a to show you when it's not working but we've got the into structure in there that's what we're goin to try to work for for the next demo to be able to show you what
+02:34:39 02:34:42  so at some kind of the go ahead all
+02:34:42 02:35:22  yes the next step after this now that the i works for us to actually create these is a these are a seale two eat also eat is working on adjusting these com plants so that when theyre modelling communications within the eat they are taking them into account as well as the data they are getting from velocity and then we'll be building the ah the i and communication square of the user in query eat and find out right now within this particular lay down o what's my calm capability who can talk too can i get fire support from this particular forward deploy unit or where is there a broken chain in that link somewhere
+02:35:22 02:35:35  and then the next challenge of course will be to make that old work through to massive so that as we are a running an integrated scenario and all the coms a going over massive
+02:35:35 02:36:00  a exotic and tract where forces are contract what their m come state might be if something goes down if something gets hacked and respond to that the challenges with that i think marcus alluded to a few times is expanding the massive data model for entity state data that we used to exchange data between the simulations to include that additional capability to the models that were in massive we
+02:36:00 02:36:03  i wonder when cassy go tarring with it
+02:36:03 02:36:10  were not quite designed for those kinds of use cases they weren't quite designed for logistics use cases of been able
+02:36:10 02:36:19  how much stuff you are carrying ah some of the radio stuff is a little bit funky in there and so those are ah can be some of the
+02:36:20 02:36:25  i wouldn't say road blocks but some of the things we need to punch our way through impassive in order to actually
+02:36:26 02:36:28  in the full implementation that we
+02:36:33 02:36:38  o k so with that being said i will get off the stage ole you can take the screen
+02:36:39 02:36:41  are any other questions on the cans
+02:36:46 02:36:51  all right then let's do something that's really not exciting and ghost logistics
+02:36:52 02:37:07  matter of opinion i guess ah so this is our first time we're demonstrating logistics say demonstrating some of the supply modelling and re supply behaviors that we are working on towards the september
+02:37:07 02:37:45  so what we are doing right now is we're going to show you where we are with it there's definitely still work to be done and we'll cover just like with comes cover with still up coming but we'd like to show you where we are we are using the terrain a same terrain near the cambria a that we were using before since we're still looking for the terrain from terra sin for the a mine to for the logistics that's in ti land and so in the meantime we're marking up those same kind of concepts in in the tactical environment and the same piece of terrain that your used to showing for quite a while
+02:37:46 02:38:05  and so what we are doing here is that since the focus is on logistics we have a very small scenario that we put together just to for our internal testing with a mortars and an artillery unit that are deployed here we're going to have a cant unit come up to g four to block
+02:38:06 02:38:29  the enemy forces coming from the north and we more importantly have now some supply components as well for the first version were not by going to supply depots and multi connect types of supplies but we've just put down four different trucks for food water fuel and ammo and so those are loaded with those
+02:38:29 02:38:34  kind of supplies if we look into those we've also added the y where the
+02:38:35 02:38:38  specify on both what is
+02:38:38 02:38:49  well we called it the personal load out what is it that that unit needs for itself as well as what is it caring for others in which case a the food truck is carrying two thousand pounds of food water truck is carrying
+02:38:50 02:39:09  water and likewise for fuel enamel and if we look at some of the other units such as the mortars we can see that that mortar unit has been loaded out with three days worth of supplies for food and water i don't think they're going to burn too much of fuel in this particular
+02:39:09 02:39:21  and they're not carrying any anything for for anyone else now likewise we can look at the the cat and it's the same kind of logic in terms how much they're loaded out he is based on what they need for
+02:39:22 02:39:48  the input that we're using right now i'm not coming from velocity just yet because the data that velocity would need to in just we're just getting those documents right now said we bring that up there's been a couple of really good spread sheets that we've gotten from the government and the fed in the last few few days and that the dust capture things like five point seven two pounds of food per person per day and the
+02:39:48 02:39:58  over here was they in the temperate environment it is five point six gallons of water per day per person that's needed
+02:39:58 02:40:16  and so until all is data with all its varieties ingested by velocity so that we can consume it to just build the conceptual model for logistics we are just entering some of the data into our system directly so for example for
+02:40:16 02:40:26  the dismount in the logistics section in our data set we have defined that they need five point seven pounds a foot per day and six point nine one pounds gallons of water per day
+02:40:27 02:40:55  and so that's going to be used in the logistics model that i'm about to show you as executing we likewise already had other models for example for the fuel consumption so the the one where we have some data in our system is for example for ships where that particular destroyer is using a fuel burn curve depending on speed how much is going to be able to burn in its oral fuel capacity to properly model
+02:40:55 02:41:10  the consumption of that ship o we don't have that define for ground vehicles at the moment because again we're hoping that the data will be coming from velocity ah once velocity came in just that from the sources that we are trying to acquire at the same time as we're build
+02:41:12 02:41:19  and so with that information we first with also the trust ability to carry the pay load
+02:41:19 02:41:46  we can then execute the supply model so with these input where we have their starting food starting water for all these units d there's the data for how much they're going to be consuming per day and that's going to be paraded during the execution the last piece of input that i haven't touched on is that we've added in addition to all these missions you're used to us showing you the creep on fires
+02:41:47 02:42:08  for fire support kind of assets manoeuvre or defend missions you make a basic kind of missions we've done before there is now a supply section with the re supply mission where we can specify that those four trucks that section of logistics is responsible for automatic re supply of the forward deploy
+02:42:08 02:42:29  there are some barometers here in terms of where are they stationing while they're waiting for supply coals rules of engagement and this is going to be further expanded to include levels of re supply you know the ore supply fifty per cent thirty per cent what are the different kinds of additional ation you want to use
+02:42:29 02:42:41  currently by default until we final lison the it is running at a fifty per cent trigger so any time there is a fifty per cent a level of supply for one of the units that'll generate
+02:42:43 02:42:50  so with all those ingots the when we start executing this scenario what we will see is
+02:42:52 02:42:58  the cap coming out to set up our defensive position there is a recon drone coming out forward there
+02:42:59 02:43:01  indirect fire support units that are
+02:43:02 02:43:12  you'll coordinate it with the rest of the defense i'm going to go ahead and actually four fast forward through that in just a second a because you've seen us do this many many times
+02:43:12 02:43:14  writes is running
+02:43:14 02:43:36  probably not a very good tactical defense since they're getting through pretty close to our forces but the point being that once we get past that initial engagement this is where we start looking at the supply question so one of the things we can do is we can drill down into the same units and see that they are
+02:43:36 02:43:52  they're eating their food and they're drinking their water and you can see those levels of supplies dropping someone wants to get out the calculator and multiply those rates by the fourteen and a half hours that were into the simulation you should probably see that we're at about those numbers
+02:43:53 02:44:00  ah and so that's going to be pretty much uneventful for quite a while because at this point
+02:44:03 02:44:04  what of a men
+02:44:05 02:44:12  so at this point there is not much that's going to happen the units have been loaded out with about
+02:44:12 02:44:21  three days as i mentioned of supplies and so until we get to not a day and twelve hours mark they are above the fifty per cent
+02:44:21 02:44:27  but we can actually see that also in our log outfit a so we brought the south might many times in the
+02:44:27 02:44:55  but we are logging all kinds of other events as well for example even early on once when the batteries were firing we needed we had a re supply need for class five supplies but unfortunately we don't have any of those in the system just yet so they did not get we supplied there were some critical messages about going completely dry on them before the made of our millimeter mortars and the tone pipe fifty five millimeter how
+02:44:55 02:45:11  and then later on in this in this schedule you will see that id that a day and a half because that's exactly how much food we gave them all of these units are now generating re supply requests for classes one c and one w which is food
+02:45:12 02:45:14  and so if we jump ahead to that mark
+02:45:15 02:45:24  it's going to slide me forward in time and it's going to kinda sum in on his units this is when the re supply starts kicking in
+02:45:24 02:45:29  so at that point if i be slowed down just a little bit
+02:45:30 02:45:55  we will see that supply coming out so the automatically generated of course based on the coal for supplies from these from these units and from those units the appropriate trucks were sent out there so in this case that was food and water and as they got up there we can got kind of just to confirm that things are working well we can see that we're right about that before the supplies get there
+02:46:01 02:46:04  of their available supplies for food and water
+02:46:04 02:46:31  and as the trucks get there and are given the appropriate time to actually execute the supply there is a certain amount of time they need for that we will now see that these units are now being topped back off on food and water to their maximum load and if we weren't to check the food and water trucks they have of course depleted their water by what they gave to the other units and depleted their
+02:46:31 02:46:33  say feeding water in this
+02:46:35 02:46:48  and so at this point there are other units that need to be re supplied so this is our kind of an interesting moment to us because this kicks in the rest of the kind of integrated logic of the sim that we need to get supplies
+02:46:49 02:46:53  from here because that's wood the trot where the trucks and to over there
+02:46:54 02:46:58  and the first time we ran it as usual we are really bad at reading maps
+02:46:58 02:47:10  saying we were surprised but we were surprised that they had it south ah and the reason for that is probably more clear to you gas than it is to me who are used to reading the total maps but there is really no good way
+02:47:12 02:47:19  and so it's just faster for them to get down there and take the roads to get to where they're trying to go instead of trying to get
+02:47:19 02:47:20  ob these
+02:47:22 02:47:32  oleg is it possible for you to show your a movement analysis too that you made just to help out me like myself
+02:47:32 02:47:36  and that to help us as well because we we always get
+02:47:37 02:47:44  so if we just look at the mobility analysis from that position or a cargo truck
+02:47:44 02:47:49  assuming my computer is actually running a what we can do as we can visualize
+02:47:49 02:48:00  the best way to do that is to just go a little bit small like you see that what this is doing is is it showing how far can i get within five minutes and you can clearly see we can go down further on the road
+02:48:01 02:48:04  and as i keep pushing the time out a little bit
+02:48:04 02:48:08  ah you'll see that it starts snaking down
+02:48:09 02:48:15  and then it start snaking along this road and it's snaking there a hecla faster
+02:48:15 02:48:28  the e than it is getting across those mountains and so as we can see as we get a little bit further down we just get there faster if we go down through the south roads and as we kind of keep going there's going to be some point where
+02:48:29 02:48:38  a trade off but at this point with in most twenty two minutes if we would have taken the road we could have gotten pretty damn far north i'm giving the date of a current half for those vehicles
+02:48:41 02:49:09  and what's interesting about that that analysis is that i to kind of circle back to one of the discussions we just had on this call about a master map products is if we bring up those master map products we're interesting from ants teach us services right now on this master map product there's actually some roads some trails at least that exist that couldn't maybe let us get there little bit differently
+02:49:10 02:49:21  but was of course challenging with always witty simulations as when you have a dispute data piet so that this particular map is showing that perhaps you can get across those mountains
+02:49:21 02:49:26  and on the other hand the data of the underlying data that is dragging over simulations
+02:49:26 02:49:27  is
+02:49:28 02:49:38  half that particular road in it then it's always a pretty big challenge to figure out and which of those products is right this particular and the rest of product has
+02:49:38 02:50:06  yet another kind of aversion of the ground truth and so that's why we always want to provide an ability for the user to see what the underlying data driving the models are so at least the data but they can answer the question of well why am i not able to get across here as my map is showing me i can this at least are directs them back to the training data as billion son for their behavior and am using this
+02:50:07 02:50:09  in the tool we can easily invest
+02:50:13 02:50:14  its pretty vision
+02:50:19 02:50:41  and so what's going to happen now is those trucks now that they've re successfully re supplied one side are going to get themselves back from the road get up north and re supply the other side of the of the fight and so here likewise i don't think i showed it before they got re supplied but what we'll see now is they
+02:50:41 02:50:52  there still having been re supplied because i probably clicked a little too early i think we have it set to ten minutes in his tees how long it takes to actually off load the
+02:50:52 02:50:57  the cargo but there's a bunch of different un stair sole fast forward a li bit
+02:50:58 02:51:04  as you have a question from brian you have a question from brian is ame consumed as fired or at a given rate
+02:51:05 02:51:20  as fired so if we look into the mortars for example we will see that the ame is now completely out on the one mortars i think they didn't have rifle am cause
+02:51:21 02:51:27  but for example their two forties are still completely untouched since those want involved
+02:51:28 02:51:32  it's the same logic for the fuel there are some
+02:51:32 02:51:36  to some trucks and combes i believe this comes
+02:51:40 02:51:45  are there some conies out here and so there few consumption is
+02:51:46 02:51:48  based on how much they've actually travelled
+02:51:49 02:51:51  just bison go
+02:51:51 02:51:52  the pine robe
+02:51:53 02:52:13  while we are adding to the model the the fuel that they're consuming while idling but we definitely don't want to go to just the basic model per day so that we can still keep track of if that ship had to go really fast to get somewhere else well just burning through a lot of its supplies because i have to get both engines out running
+02:52:14 02:52:44  so we are using kind of a mixed approach where for some classes of supply we we would like to do it by a kind of consumption per day per hour and for others we are doing it more specifically like weapons and fuel but we certainly can combine the two we actually had that discussion yesterday so for fuel we could certainly do both and consume specifically due to movement and then have the basic consumption per day to find that also get
+02:52:45 02:52:48  does it answer the question o bran
+02:52:50 02:52:51  it did thank you
+02:52:53 02:53:02  and so i think at this point we should be re supply dip where we supplied and we actually started already eating again and so the number is lower than the max
+02:53:02 02:53:52  and so i'm trying to catch these three supply points for you just to show that the things are happening the way they should that we are decrement ing food as we are going them as we are progressing through the day and the same for the water and then as we supply trucks get there this number goes back up and the number of course that the food trucks are carrying is going down because they're off loading but another way we added just to be able to show this is to add another metric to our building metrics so again of course hi is going to be doing a lot more detailed metrics than this but to support our development we added some supply metrics here as well in addition to our pre existing inventory if you recall the inventory we do by different kinds of weapons that you have as well as overtime so we did the same for the supply
+02:53:53 02:54:12  and i find this slightly humorous but out for supplies are doing better than blue for supplies because we er there are no out for remaining e they are not consuming any supplies since they've been killed so in the blue for supplies area what we can see is we can see the three different classes of supply we can see that the fuel is actually a
+02:54:13 02:54:22  a bit lower percentage because we don't have anyone who can get fuel of these particular forces in the scenario but the food and the water are relatively high
+02:54:23 02:54:37  and you can see that overtime as well that the green line is the the fuel that slowly been decrement ing the orange actually has a yellow overlaid on top of each other because we're consuming in the same percentage rate even though the actual
+02:54:37 02:54:40  anson and gallons are different
+02:54:40 02:54:50  but because they had three days worth of each of those supplies in their consuming them according to the standard supply consumption there is just then a being on top
+02:54:50 02:55:08  and so as you can see they've been eating through their food up until about one day in twelve hours at which point we despatch the truck you can see the first climb up here where the first part of the supply happened for the mortars and in the second gradual climb as they were re supplying all the units within the second
+02:55:09 02:55:14  we can also drill them and see that was the pre supply where then
+02:55:15 02:55:43  then orders were topped off all the way to the top and then started consuming again and likewise with the count we can see that that happened a little bit later lid between them you can see that the second camp was rested a little bit after the eighty one and because of that they actually went a little bit lower to fill with fur the three supplied them but on the other hand they were re supplied more recently so their final consumption ends at if you look at this craft i believe
+02:55:43 02:55:48  yet the day end up in a slightly different position from
+02:55:49 02:55:50  on
+02:55:51 02:56:04  and again to the more detailed analytic for the supplies something that a hit will be building up but this should allow you to see the basic of consuming re supply consuming again and then happening over and
+02:56:06 02:56:20  were we were we planning to go from here is we we'd like to of course make sure that we can show you this with all the different classes of supply i think to day i didn't show you a supply of fuel although we could have done it
+02:56:20 02:56:25  i think we owe to support that a supply of ama will certainly show you next time as well
+02:56:26 02:56:33  and more interestingly we would be going to the more complex we supply with
+02:56:33 02:56:47  making multiple levels of that so there would be a depot that gets re supplied from higher and then distribute it from there to the subordinate units a we'd like to tackle the multi cometary supplies if they
+02:56:47 02:56:58  we need to move the supplies of our trucks on to shore and then load em on boats and then get the boats to the next island over get em back on the trucks and get em moved out of there
+02:56:58 02:57:05  and of course just the other piece of turin is rather like to go so we can show it with an e a b o
+02:57:06 02:57:14  but the quar model of the supply we supply behaviors a should be the ago and we can grow from it in future
+02:57:14 02:57:33  n the last challenge i want to mention and is again for hite to be able to do analytic on this data we need to give this data to them through massive and so what we are also looking in the next few weeks over is expanding the massive data model to include these
+02:57:33 02:57:44  re these fields that we have added so we can have a ability to just send out on the wire how much food does this particular unit have and how much water do they
+02:57:44 02:57:50  and how much of food is this truck carrying as supplies for
+02:57:51 02:57:54  also as we take dose them hive will be able to do those analytic
+02:57:55 02:58:00  so let me take a little break there and there was a lot of talking i and i would well term either comments or questions
+02:58:02 02:58:28  hey ole this is tiens after five so i want to be really fast here questions yes or no it is good enough don't have to plan de asking correct of things i not realize that you could improve it but just correct status one i think you were going to showing pole six right hey i i went over a level i ask for it it comes how about a push i'm going to give you what i give you when i give it to you cause i'm
+02:58:29 02:58:35  just to see meshes how i work sometimes i scheduled in a replenishment is that
+02:58:36 02:58:38  it doesn't do that right now or is all p
+02:58:39 02:59:04  yet so currently it is all pool based we actually had an index discussion about pool versus push versus schedule logistics and we picked pool to do first because the smeath guidance was that that's the most en critical and challenging and interesting one and from just a soter perspective a harder one to implement so now that we have got working we can certainly and very easily ad
+02:59:05 02:59:12  the push logistics are scheduled logistics yet we did the hard part for right so we can do the easy part
+02:59:12 02:59:13  chor
+02:59:14 02:59:45  gutch thinks a second one is am or so you so you show replenish right now do you have currently is there the behaviours in there for i ran out of water i ran out of fuel i ran out of ammo i ran out of something i'm now behaving the you know the way i would if i ran out of ammo or ran out of fuel or ran out of water or is it just strictly a metric that's showing whether or not i've got supplies on hand
+02:59:45 03:00:10  so out of the four supply classes the weapons and the fuel will have a specific effect once you run out of the weapons and you run out of fuel you cannot shoot and you cannot move but the water and the food are only metrics as you said they are not hooked up to now i am becoming more and more combat ineffective because i haven't had water in twenty four hours
+03:00:10 03:00:17  ah that is one of the f t c were tracking i think that was one of the ones marcus mentioned ah that is one on the green list
+03:00:17 03:00:20  ah so weak will definitely be adding that
+03:00:21 03:00:33  a tip and we're dressing more the softer things like a will and moral and it's impact on fighting we're fighting ability
+03:00:34 03:00:44  that would be just an example but it is an example right so when you when you're depleted of fillin blank what should happen so that that would be an example of it
+03:00:45 03:01:16  thanks and then third thing a trying to be quick so multiple stages of ore supplies so like pica scenario you have a ship ship is sustaining some force ashore but that ship itself will run out of supplies right so i'm out of my g p five that i can go provide i'm now waiting for replenishment at sea from it basically another another round of now that ship has to be replenished is there a limitation on that or is it a or no
+03:01:16 03:01:42  i saw no limitations on that they be they that should function just exactly as you describe if we have other units that have been a tasked with re supplying the supply units if you will than that should work just find however we have not actually tried that yet a this is your literally coming up as of yesterday so we that's the next thing we're going to be trying is this multi level re supply and
+03:01:42 03:01:45  i think what's even more challenging is the multi con nectary supply
+03:01:46 03:01:50  in to get supplies from point eight to point b you might have to go by
+03:01:50 03:01:58  you know by plane and then by ship and then by truck and so that that's probably can be the more challenging of the problem
+03:01:58 03:02:07  i multi say no limitation but also haven't been tried so what i but wouldn't guarantee is there yet
+03:02:08 03:02:44  you're delving dangerously into something i know something about to do at random questions things no perfect and the i think the question about the a a simulating fatigue and those kinds of effects i think i just looked up at f t c a that's that's going to hook right into the same kind of models we already do for competency and aggressiveness of full forces a suppression model that's effected by you know how how much someone gets suppressed depends on oh how aggressive they are competent they are that would just tie right into those models with a well now you're also hungry so
+03:02:45 03:02:49  not as responsive and your competency defective competency goes
+03:02:49 03:02:55  i know marcus is very excited about that topic so i'm sure he'll be giving us some very specific guidance on that
+03:02:57 03:02:59  right thinks
+03:03:03 03:03:09  marcus anything i missed no i don't think so lick i think he covered it well and we're at
+03:03:13 03:03:14  and to lo
+03:03:16 03:03:19  but right on time you ended right on time accordin o schedule lo
+03:03:20 03:03:24  and i don't i don't want to keep on going as tyson said we're past seventeen hundred here
+03:03:25 03:03:28  to chuck bison and buy from the government everything they want ad
+03:03:30 03:03:41  this is shock so a very impressive demonstrations and great conversations i think ah there's a lot of great work being ah put forth so i appreciate the effort
+03:03:42 03:03:47  that was great ola and marcus was also i thout that was great really was exciting
+03:03:48 03:03:51  specially the supply yes
+03:03:53 03:03:59  told you as twas for christian and and laura
+03:04:00 03:04:08  all right guys if nothing else i'll go ahead and just end this shortly and abruptly and think they're ready for their time
+03:04:09 03:04:21  i think e ja well not cutting mills on the way to it e set et set set set set set set cut et

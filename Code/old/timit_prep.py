@@ -1,108 +1,41 @@
 ##TODO:
 # Possible rounding error??
 
+import glob
 import itertools
 import numpy as np
 import os
 import pickle
 import re
 import soundfile as sf
-import torch
+#import torch
 
 # path = '/home/icalloway/Side Projects/AutoTranscribe/Data/'
 path = "/outside/Data/"
-CHUNK_LENGTH = 5
+CHUNK_LENGTH = 1
 STRIDE_LENGTH = 2
 OUTPUT_LENGTH = 0.05
-
-
-acceptable_segments = [
-    "aa",
-    "ae",
-    "ao",
-    "aw",
-    "ay",
-    "eh",
-    "ey",
-    "ih",
-    "iy",
-    "oh",
-    "ow",
-    "oy",
-    "uw",
-    "uh",
-    "ah",
-    "er",
-    "em",
-    "el",
-    "eng",
-    "en",
-    "aan",
-    "aen",
-    "ahn",
-    "aon",
-    "awn",
-    "ayn",
-    "ehn",
-    "eyn",
-    "ihn",
-    "iyn",
-    "ohn",
-    "own",
-    "uwn",
-    "uhn",
-    "p",
-    "t",
-    "k",
-    "f",
-    "th",
-    "s",
-    "sh",
-    "hh",
-    "ch",
-    "tq",
-    "b",
-    "d",
-    "g",
-    "v",
-    "dh",
-    "z",
-    "zh",
-    "jh",
-    "m",
-    "n",
-    "ng",
-    "nx",
-    "l",
-    "r",
-    "w",
-    "y",
-    "dx",
-    "SIL",
-    "VOCNOISE",
-    "NOISE",
-    "LAUGH",
-]
-
-wav_files = [f for f in os.listdir(path) if f.endswith(".wav")]
 segment_list = []
-
 in_ = None
 
-for wav in wav_files[:2]:
+wav_files = glob.glob("/home/icalloway/TIMIT/TRAIN/*/*/*.WAV")
+
+for wav in wav_files[:50]:
     audio_list = []
     print("Processing... %s" % format(wav))
-    phones = os.path.join(path, re.sub(".wav$", ".phones", wav))
+    phones = os.path.join(wav, re.sub(".WAV$", ".PHN", wav))
+    print(phones)
     if os.path.isfile(phones):
         with open(phones, "r") as f:
-            lines = f.readlines()
-            processed = [line.split() for line in lines[11:-1]]
-
-    sound, sr = sf.read(os.path.join(path, wav))
+            processed = [a.strip().split(' ') for a in f.readlines()]
+    sound, sr = sf.read(wav)
+    print(sound)
+    print(sr)
+    print(round(sr*CHUNK_LENGTH))
+    print(len(sound))
     chunked = np.lib.stride_tricks.sliding_window_view(sound, round(CHUNK_LENGTH * sr))[
         :: round(STRIDE_LENGTH * sr)
     ]
-
     for a in range(chunked.shape[0]):
         segs = []
         start = round(STRIDE_LENGTH * a)
@@ -112,6 +45,8 @@ for wav in wav_files[:2]:
             for b in range(len(processed))
             if (float(processed[b][0]) > start and float(processed[b][0]) <= end)
         ]
+        print(chunk)
+        exit()
         if len(chunk) < 1:
             continue
         else:
@@ -119,6 +54,9 @@ for wav in wav_files[:2]:
         if last < len(processed) - 1:
             chunk.append(last + 1)
         unit = start
+exit()
+
+'''
         for i, segment in enumerate(chunk):
             if len(processed[segment]) > 2:
                 segment_id = processed[segment][2].replace(";", "")
@@ -185,3 +123,4 @@ with open("./input.pkl", "wb") as g:
 
 with open("./output.pkl", "wb") as h:
     pickle.dump(out, h)
+'''
