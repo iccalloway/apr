@@ -25,10 +25,10 @@ class ASRDataset(Dataset):
         with open("./data/output.tsv", "r") as g:
             self.out_ = [json.loads(line) for line in g.readlines()]
             joined = list(itertools.chain.from_iterable(self.out_))
-            self.uniques = list(set(joined))
-            self.weights = compute_class_weight(
+            self.uniques = sorted(list(set(joined)))
+            self.weights = torch.tensor(compute_class_weight(
                 class_weight="balanced", classes=self.uniques, y=joined
-            )
+            ))
         self.d = dict(zip(self.uniques, list(range(len(self.uniques)))))
         self.rev_d = {v: k for k, v in self.d.items()}
 
@@ -100,7 +100,7 @@ def train(model, loss_fn, optimizer, loader, bs):
     for i, (in_, actual_out) in enumerate(loader):
         pred_out = model(in_)
         acutal_out = actual_out.squeeze().to(model.device)
-        loss = loss_fn(pred_out.transpose(1, 2), actual_out.to(model.device))
+        loss = loss_fn(pred_out.transpose(1, 2).double(), actual_out.to(model.device))
         losses.append(loss.item())
         loss.backward()
 
@@ -129,11 +129,11 @@ def test(model, loss_fn, loader):
         for i, (in_, actual_out) in enumerate(loader):
             pred_out = model(in_)
             acutal_out = actual_out.squeeze().to(model.device)
-            loss = loss_fn(pred_out.transpose(1, 2), actual_out.to(model.device))
+            loss = loss_fn(pred_out.transpose(1, 2).double(), actual_out.to(model.device))
             losses.append(loss.item())
 
             ##Metric Accuracy
-            seg_pred = model.parse(pred_out)
+            seg_pred = model.decode(pred_out)
             seg_actual = [
                 [model.rev_d[b.item()] for b in actual_out[a, :]]
                 for a in range(actual_out.shape[0])
@@ -164,7 +164,7 @@ if __name__ == "__main__":
     test_loader = DataLoader(test_data, batch_size=1, shuffle=True, drop_last=True)
 
     optimizer = torch.optim.Adam(model.parameters(), lr=lr)
-    loss_fn = nn.CrossEntropyLoss(weight=model.weights)
+    loss_fn = nn.CrossEntropyLoss(weight=data.weights)
 
     print("Baseline")
     val_loss, val_metrics, model = test(model, loss_fn, test_loader)
