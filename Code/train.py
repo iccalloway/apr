@@ -1,4 +1,5 @@
 import json
+import numpy as np
 import pickle
 import torch
 import torch.nn as nn
@@ -28,14 +29,21 @@ class ASRDataset(Dataset):
             self.weights = compute_class_weight(
                 class_weight="balanced", classes=self.uniques, y=joined
             )
-        with open("./data/input.pkl", "rb") as f:
-            self.in_ = pickle.load(f)
+        self.d = dict(zip(self.uniques, list(range(len(self.uniques)))))
+        self.rev_d = {v: k for k, v in self.d.items()}
+
+        self.in_ = np.memmap(
+            "./data/input.bin",
+            mode="r",
+            dtype="float64",
+            shape=(len(self.out_), 16000 * 5),
+        )
 
     def __len__(self):
         return self.in_.shape[0]
 
     def __getitem__(self, i):
-        return self.in_[i, :], self.out_[i]
+        return torch.tensor(self.in_[i, :]), torch.tensor([self.d[a] for a in self.out_[i]])
 
 
 class ASR(nn.Module):
@@ -146,6 +154,7 @@ if __name__ == "__main__":
     print(device)
 
     data = ASRDataset()
+    print(data[0])
     model = ASR(device, data.uniques).to(device)
 
     train_data, test_data = torch.utils.data.random_split(
