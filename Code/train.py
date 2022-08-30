@@ -20,20 +20,22 @@ def elcomp(*lists):
 
 
 class ASRDataset(Dataset):
-    def __init__(self):
+    def __init__(self, in_path, out_path):
         super().__init__()
-        with open("./data/output.tsv", "r") as g:
+        with open(out_path, "r") as g:
             self.out_ = [json.loads(line) for line in g.readlines()]
             joined = list(itertools.chain.from_iterable(self.out_))
             self.uniques = sorted(list(set(joined)))
-            self.weights = torch.tensor(compute_class_weight(
-                class_weight="balanced", classes=self.uniques, y=joined
-            ))
+            self.weights = torch.tensor(
+                compute_class_weight(
+                    class_weight="balanced", classes=self.uniques, y=joined
+                )
+            )
         self.d = dict(zip(self.uniques, list(range(len(self.uniques)))))
         self.rev_d = {v: k for k, v in self.d.items()}
 
         self.in_ = np.memmap(
-            "./data/input.bin",
+            in_path,
             mode="r",
             dtype="float64",
             shape=(len(self.out_), 16000 * 5),
@@ -43,7 +45,9 @@ class ASRDataset(Dataset):
         return self.in_.shape[0]
 
     def __getitem__(self, i):
-        return torch.tensor(self.in_[i, :]), torch.tensor([self.d[a] for a in self.out_[i]])
+        return torch.tensor(self.in_[i, :]), torch.tensor(
+            [self.d[a] for a in self.out_[i]]
+        )
 
 
 class ASR(nn.Module):
@@ -105,7 +109,7 @@ def train(model, loss_fn, optimizer, loader, bs):
         loss.backward()
 
         ##Metric Accuracy
-        seg_pred = model.parse(pred_out)
+        seg_pred = model.decode(pred_out)
         seg_actual = [
             [model.rev_d[b.item()] for b in actual_out[a, :]]
             for a in range(actual_out.shape[0])
@@ -129,7 +133,9 @@ def test(model, loss_fn, loader):
         for i, (in_, actual_out) in enumerate(loader):
             pred_out = model(in_)
             acutal_out = actual_out.squeeze().to(model.device)
-            loss = loss_fn(pred_out.transpose(1, 2).double(), actual_out.to(model.device))
+            loss = loss_fn(
+                pred_out.transpose(1, 2).double(), actual_out.to(model.device)
+            )
             losses.append(loss.item())
 
             ##Metric Accuracy
@@ -145,6 +151,8 @@ def test(model, loss_fn, loader):
 
 
 if __name__ == "__main__":
+    in_path = "/outside/data/input.bin"
+    out_path = "/outside/data/output.tsv"
     writer = SummaryWriter("logs/debugging/")
     epochs = 30
     split = 0.8
@@ -153,7 +161,7 @@ if __name__ == "__main__":
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     print(device)
 
-    data = ASRDataset()
+    data = ASRDataset(in_path, out_path)
     print(data[0])
     model = ASR(device, data.uniques).to(device)
 
