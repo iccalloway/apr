@@ -177,9 +177,9 @@ def train_evaluate(parameterization):
     ##Layer Freezing
     prefix = "encoder.layers."
     turn_off_layers = list(
-        range(parameterization["freeze"] - 1)
+        range(parameterization["freeze"])
     )  ##Layers that should be frozen
-    layer_check = [prefix + str(a) for a in turn_off_layers]
+    layer_check = ['{}{}.'.format(prefix,str(a)) for a in turn_off_layers]
     for name, param in model.hubert.named_parameters():
         if any([a in name for a in layer_check]):
             print(name, param.grad)
