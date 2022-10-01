@@ -79,12 +79,12 @@ class ASR(nn.Module):
         input_ = self.processor(
             x.numpy(), sampling_rate=self.sr, return_tensors="pt"
         ).input_values.to(self.device)
-        out = self.hubert(torch.squeeze(input_)).last_hidden_state
+        out = self.hubert(input_.squeeze(dim=0)).last_hidden_state
         out = self.relu(self.linear1(out))
         out = self.linear2(out)
-        out = torch.transpose(out, 1, 2)
+        out = out.transpose(1, 2)
         out = self.linear3(out)
-        out = torch.transpose(out, 1, 2)
+        out = out.transpose(1, 2)
         return out
 
     def encode(self, x):
@@ -122,7 +122,7 @@ def train(model, loss_fn, optimizer, loader, bs, mode=None):
     for i, (in_, actual_out) in enumerate(loader):
         try:
             pred_out = model(in_)
-            pred_temp = torch.transpose(pred_out, 1, 2).to(model.device)
+            pred_temp = pred_out.transpose(1, 2).to(model.device)
             actual_out = actual_out.to(model.device)
             loss = loss_fn(pred_temp, actual_out)
             losses.append(loss.item())
@@ -131,6 +131,7 @@ def train(model, loss_fn, optimizer, loader, bs, mode=None):
                 if (i + 1) % bs == 0:
                     optimizer.step()
             del loss
+            torch.cuda.empty_cache()
         except:
             raise
             torch.cuda.empty_cache()
@@ -161,11 +162,15 @@ def train_evaluate(parameterization):
     writer = SummaryWriter("logs/{}".format(params))
     epochs = 30
     split = 0.8
+    es = 3
     lr = parameterization["lr"]
     bs = parameterization["bs"]
     best_metric = "accuracy"
 
+    tries = es
+
     global best
+    trial_best = 0
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     print(device)
@@ -179,7 +184,7 @@ def train_evaluate(parameterization):
     turn_off_layers = list(
         range(parameterization["freeze"])
     )  ##Layers that should be frozen
-    layer_check = ['{}{}.'.format(prefix,str(a)) for a in turn_off_layers]
+    layer_check = ["{}{}.".format(prefix, str(a)) for a in turn_off_layers]
     for name, param in model.hubert.named_parameters():
         if any([a in name for a in layer_check]):
             print(name, param.grad)
@@ -188,11 +193,11 @@ def train_evaluate(parameterization):
     train_data, test_data = torch.utils.data.random_split(
         data, [round(len(data) * split), round(len(data) * (1 - split))]
     )
-    print('Train Data has {} elements'.format(len(train_data)))
-    print('Test Data has {} elements'.format(len(test_data)))
+    print("Train Data has {} elements".format(len(train_data)))
+    print("Test Data has {} elements".format(len(test_data)))
     train_loader = DataLoader(
         train_data,
-        batch_size=2,
+        batch_size=1,
         shuffle=True,
         drop_last=True,
         collate_fn=model.collate_fn,
@@ -229,16 +234,26 @@ def train_evaluate(parameterization):
         writer.add_scalar("loss/train", train_loss, epoch)
 
         print("Validation")
-        val_loss, val_metrics, model = test(model, loss_fn, None, test_loader, "test")
+        val_loss, val_metrics, model = train(
+            model, loss_fn, None, test_loader, None, "test"
+        )
+
         print(val_loss, val_metrics)
         for k, v in val_metrics.items():
             writer.add_scalar("{}/val".format(k), v, epoch)
         writer.add_scalar("loss/val", val_loss, epoch)
 
-        if val_metrics[best_metric] > best:
-            best = val_metrics[best_metric]
-            print("New Best: {}".format(best))
-            torch.save(model.state_dict, "./stt.model")
+        if val_metrics[best_metric] > trial_best:
+            trial_best = val_metrics[best_metric]
+            tries = es
+            if val_metrics[best_metric] > best:
+                best = val_metrics[best_metric]
+                print("New Best: {}".format(best))
+                torch.save(model.state_dict, "./stt.model")
+        else:
+            tries -= 1
+            if tries <= 0:
+                return trial_best
 
 
 def ax_optimize():
